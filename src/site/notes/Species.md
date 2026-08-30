@@ -42,10 +42,10 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Navili\|Navili]] - Navili (nuh-VEE-lee) are an ethereal folk who first stepped out of Arcadia and found a home in the Stardust Rhapsody.
 [[Species/Nematoan\|Nematoan]] - Nematoans (NEE-muh-TOE-in) are a four-armed amphibian species with a voracious appetite.
 [[Species/Nilari\|Nilari]] - Nilari (nih-LAR-ee) are the people of the void wyrm, which has granted them various draconic features that make them well suited to resisting the horrors of the Abyssal Void.
-[[Oculok\|Oculok]]
-[[Oozoid\|Oozoid]]
-[[Pakku\|Pakku]]
-[[Plagueborn\|Plagueborn]]
+[[Species/Oculok\|Oculok]] - Oculoks (AHK-yoo-lahk) are a cyclopean species that hails from a vast underground civilization.
+[[Species/Oozoid\|Oozoid]] - Oozoids (OO-zoid) are a pliable species of living slime that congealed from the remnants of the first primordial ooze that lingered from the creation of the cosmos.
+[[Species/Pakku\|Pakku]] - Pakku (PAH-koo) are a species of sapient plants with the combined elements of cacti and carnivorous flora.
+[[Species/Plagueborn\|Plagueborn]] - 
 [[Poggle\|Poggle]]
 [[Raizo\|Raizo]]
 [[Rangor\|Rangor]]
