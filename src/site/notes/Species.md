@@ -48,11 +48,11 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Plagueborn\|Plagueborn]] - Plagueborn are a rat-like species native to Bubonia, typically coalescing in the pestilent haze that hangs over the planet.
 [[Species/Poggle\|Poggle]] - Poggles (PAW-gull) are born lucky. Said to be the creation of the luck goddess [[Tykris\|Tykris]] the Dealer, the favor of fortune touches everything they do.
 [[Species/Raizo\|Raizo]] - Raizo (RYE-zoh) are a people born of the storm, and they all carry the power and ferocity of a raging tempest within them.
-[[Rangor\|Rangor]]
-[[Relicborn\|Relicborn]]
-[[Saurian\|Saurian]]
-[[Silkborn\|Silkborn]]
-[[Skathári\|Skathári]]
+[[Species/Rangor\|Rangor]] - Rangor (RAING-gor) are a hulking, subterranean species with an inherent supernatural force of momentum brought on by the [[aether\|aether]] that suffuses their core.
+[[Species/Relicborn\|Relicborn]] - Relicborn are a skeleton-like species native to Kalero, generally emerging from the numerous tombs and crypts that line the canyon walls of the planet.
+[[Species/Saurian\|Saurian]] - Saurians (SOR-ee-in) are the oldest species in the Stardust Rhapsody, appearing as humanoid versions of the galaxy’s numerous dinosaurs and similarly prehistoric reptiles.
+[[Species/Silkborn\|Silkborn]] - Silkborn are a spider-like species native to Nerukhet, typically emerging from silken cocoons amidst thick webbing that fills miles of tunnels throughout the subterranean planet.
+[[Species/Skathári\|Skathári]] - Hailing from the distant, mountainous world of Kopriá, whose seasons can last for years and whose volcanoes choke entire regions with sulfur gas, these insectoid creatures are perfectly adapted to life on harsh planets.
 [[Skettik\|Skettik]]
 [[Solari\|Solari]]
 [[Stardust Humans\|Stardust Humans]]
