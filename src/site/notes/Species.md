@@ -45,7 +45,7 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Oculok\|Oculok]] - Oculoks (AHK-yoo-lahk) are a cyclopean species that hails from a vast underground civilization.
 [[Species/Oozoid\|Oozoid]] - Oozoids (OO-zoid) are a pliable species of living slime that congealed from the remnants of the first primordial ooze that lingered from the creation of the cosmos.
 [[Species/Pakku\|Pakku]] - Pakku (PAH-koo) are a species of sapient plants with the combined elements of cacti and carnivorous flora.
-[[Species/Plagueborn\|Plagueborn]] - 
+[[Species/Plagueborn\|Plagueborn]] - Plagueborn are a rat-like species native to Bubonia, typically coalescing in the pestilent haze that hangs over the planet.
 [[Poggle\|Poggle]]
 [[Raizo\|Raizo]]
 [[Rangor\|Rangor]]
