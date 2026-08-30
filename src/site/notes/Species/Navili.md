@@ -6,7 +6,7 @@
 # Navili
 ![Navili.png](/img/user/images/Navili.png)
 Navili (nuh-VEE-lee) are an ethereal folk who first stepped out of Arcadia and found a home in the Stardust Rhapsody. Their time among the mortal species changed them, but they never lost touch with the mystic power of their enchanted origin.
-All navili embody a primary ideal—valor, might, or clarity— tracing back to the virtues of the sages that first guided them from Arcadia. Drawn to opportunities for heroism and to embody their chosen ideal, navili regularly seek secrets and relics within ancient ruins or lost temples.
+All navili embody a primary ideal—valor, might, or clarity—tracing back to the virtues of the sages that first guided them from Arcadia. Drawn to opportunities for heroism and to embody their chosen ideal, navili regularly seek secrets and relics within ancient ruins or lost temples.
 They are typically willowy and graceful with skin that ranges from muted tones of nature to the brilliant blues, pinks, and greens of Arcadia, often marked with intricate runic patterns. Navili have shimmering eyes, broad noses, and leaf-like ears with several delicate points. A pair of prismatic, polygonal wings drift behind their backs.
 ### Navili Traits
 **Creature Type**: Fey 
