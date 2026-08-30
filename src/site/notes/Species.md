@@ -1,0 +1,72 @@
+---
+{"dg-publish":true,"permalink":"/species/","dg-note-properties":{}}
+---
+
+#### [[Home\|Home]]
+# Species
+	"Everyone has a story, and, like it or not, your tale is being written with each passing moment. Where you’re going matters more than where you came from, but every good story needs a beginning. Let’s start there—who are you?"
+
+The Stardust Rhapsody is home to countless beings and cultures, some of which are presented here as options for player characters. Work with your GM to alter any material presented in this wiki to best reflect your vision and the aspirations you have for the story you wish to explore. In all cases, the information given on specific species is general, and members within that community are as individual and distinctive as a fingerprint.
+
+[[Species/Aetheron\|Aetheron]] - Aetheron (EE-ther-awn) are a resilient people made of the stuff of space itself, allowing them to manipulate their connection to gravity and resist the effects of aether exposure.
+[[Species/Amanite\|Amanite]] - Amanites (A-muh-nite) are fungal folk who originated in marshes and bogs overgrown with tree-sized mushrooms and teeming with huge, voracious creatures.
+[[Species/Amoeboid\|Amoeboid]] - Amoeboids (Uh-mee-boid) are intelligent, vaguely humanoid-shaped oozes that can mimic the form of any creature they touch.
+[[Species/Anitron\|Anitron]] - Anitrons (AN-ih-tron) are living robots with a hyperspark—a technological soul originating from the Hypergrid and infused with the Harmony’s life energy
+[[Species/Ashborn\|Ashborn]] - Ashborn are an imp-like species native to Chernabos, typically coalescing from the sulfuric ash of the planet’s hellfire and brimstone volcanoes.
+[[Species/Avia-ra\|Avia-Ra]] - The Avia-ra are a sun-worshiping race of wingless bird-people who travel to every reach of the galaxy to spread their ancient religion.
+[[Species/Azureborn\|Azureborn]] - Azureborn (A‑zher‑born) are a harpy-like species native to Astramar, often materializing from the bright blue night sky filled with twinkling stars and winds of arcane power.
+[[Species/Benthos\|Benthos]] - Benthos (BEN-thoess) are a people forever changed by the eldritch power of the Abyssal Void.
+[[Species/Bitling\|Bitling]] - Bitlings (BIT-ling) are a widely varied species that hail from the video game realm of Arcadia.
+[[Species/Bogborn\|Bogborn]] - Bogborn are a troll-like species native to Zulrogg, usually rising from the still, dark waters of the swampy planet.
+[[Species/Clawderan\|Clawderan]] - Clawderan (klaw-DAIR-in) are an energetic species of humanoids with feline traits and are known to take pride in proving themselves in combat and other physical pursuits.
+[[Species/Curseborn\|Curseborn]] - Curseborn are a werewolf-like species native to Edwardia, often emerging from the dense, cursed fog that rolls across the planet.
+[[Species/Cygnian\|Cygnian]] - Cygnians (SIG-nee-in) are the star-touched of [[Agathos\|Agathos]], once mortal beings remade by the will of the gods.
+[[Species/Dathu\|Dathu]] - Dathu (DAH-thoo) are a ferocious people who have been transformed by the discordant tone of Instinct through their wrath and desire to tear down the perceived source of their pain.
+[[Species/Deepborn\|Deepborn]] - Deepborn are a fish-like species native to Olmarsh, typically rising up from the abyssal depths of the planet’s black sea—home to terrors beyond imagining known as the Hungering Ones.
+[[Species/Dji\|Dji]] - Rare humanoids born through the union of Jinn and a humanoid
+[[Species/Flambego\|Flambego]] - Flambego (flahm-BAY-goh) are a colorful avian species that hail from idyllic tropical islands where life is leisurely.
+[[Species/Glowblin\|Glowblin]] - Glowblins (GLOH-blin) are small folk who feel big and intense emotions with an inner neon radiance.
+[[Species/Gnarlborn\|Gnarlborn]] - Gnarlborn (NAR‑ull‑born) are a tree-like species native to Ardengloom, usually sprouting up from the soil of the twisted, dark forest.
+[[Species/Gorgonite\|Gorgonite]] - Gorgonites (GOR-guh-nite) are a species of serpentine featured humanoids that emerged from toxic jungles of beautiful but highly venomous flora and fauna.
+[[Species/Graveborn\|Graveborn]] - Graveborn are a ghoul-like species native to Syndramas, typically rising from one of the countless graves that mark the frozen battlefields of the planet.
+[[Species/Greeble\|Greeble]] - Greebles (GREE-bull) are a worm-like species driven by an innate desire to voyage across the galaxy.
+[[Species/Harvestborn\|Harvestborn]] - Harvestborn are a scarecrow-like species native to Enoch, most often crafted with great care by Methuselah, the lord of the planet.
+[[Species/Isotron\|Isotron]] - Isotrons (EYE-soh-tron) are wholly digital beings brought to life by a synthetic soul called a hyperspark.
+[[Species/Jenovan\|Jenovan]] - Jenovans (jeh-NOH-vin) are the descendants of an artificial psionic species created through genetic experimentation to achieve a perfected lifeform.
+[[Species/Jozza\|Jozza]] - Jozza (JAW-zuh) are a hulking species of humanoids with shark-like features, hailing from a world covered almost entirely by oceans.
+[[Species/Laika\|Laika]] - Laika (LIE-kuh) are a canine species that resemble bipedal dogs of any breed, with an innate sense of loyalty to their community and anyone they consider a packmate.
+[[Species/Marsoom\|Marsoom]] - Marsoom (mar-SOOM) are a bovine species with especially alien biology that grants them psionic prescience and highly tuned danger sense.
+[[Species/Motlien\|Motlien]] - Motliens (MOT-lee-in) are an absurd people twisted by the discordant tone of Thrill through their indulgence in sensory overload to drown out their pain.
+[[Species/Murexian\|Murexian]] - Murexians (mer-EX-ee-in) are an aquatic species of mollusklike humanoids that emerged from the dark depths of an ocean world.
+Nautilid
+Navili
+Nematoan
+Nilari
+Oculok
+Oozoid
+Pakku
+Plagueborn
+Poggle
+Raizo
+Rangor
+Relicborn
+Saurian
+Silkborn
+Skathári
+Skettik
+Solari
+Stardust Humans
+Stoneborn
+Tekal
+Terminox
+Threadborn
+Varg
+Vect
+Volcar
+Wrothian
+Yaungu
+Yoggoth
+Zamani
+Zephursa
+Zeticulan
+Zorbrak
