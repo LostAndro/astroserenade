@@ -39,7 +39,7 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Motlien\|Motlien]] - Motliens (MOT-lee-in) are an absurd people twisted by the discordant tone of Thrill through their indulgence in sensory overload to drown out their pain.
 [[Species/Murexian\|Murexian]] - Murexians (mer-EX-ee-in) are an aquatic species of mollusklike humanoids that emerged from the dark depths of an ocean world.
 [[Species/Nautilid\|Nautilid]] - A species of galaxy-spanning travelers, the hulking, fishlike nautilids patrol space in their massive whorl ships, exploring and cataloging any planet with enough water to sustain a colony.
-[[Navili\|Navili]]
+[[Navili\|Navili]] - Navili (nuh-VEE-lee) are an ethereal folk who first stepped out of Arcadia and found a home in the Stardust Rhapsody.
 [[Nematoan\|Nematoan]]
 [[Nilari\|Nilari]]
 [[Oculok\|Oculok]]
