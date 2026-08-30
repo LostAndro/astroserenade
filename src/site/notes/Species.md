@@ -41,7 +41,7 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Nautilid\|Nautilid]] - A species of galaxy-spanning travelers, the hulking, fishlike nautilids patrol space in their massive whorl ships, exploring and cataloging any planet with enough water to sustain a colony.
 [[Species/Navili\|Navili]] - Navili (nuh-VEE-lee) are an ethereal folk who first stepped out of Arcadia and found a home in the Stardust Rhapsody.
 [[Species/Nematoan\|Nematoan]] - Nematoans (NEE-muh-TOE-in) are a four-armed amphibian species with a voracious appetite.
-[[Nilari\|Nilari]]
+[[Species/Nilari\|Nilari]] - Nilari (nih-LAR-ee) are the people of the void wyrm, which has granted them various draconic features that make them well suited to resisting the horrors of the Abyssal Void.
 [[Oculok\|Oculok]]
 [[Oozoid\|Oozoid]]
 [[Pakku\|Pakku]]
