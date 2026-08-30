@@ -46,8 +46,8 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Oozoid\|Oozoid]] - Oozoids (OO-zoid) are a pliable species of living slime that congealed from the remnants of the first primordial ooze that lingered from the creation of the cosmos.
 [[Species/Pakku\|Pakku]] - Pakku (PAH-koo) are a species of sapient plants with the combined elements of cacti and carnivorous flora.
 [[Species/Plagueborn\|Plagueborn]] - Plagueborn are a rat-like species native to Bubonia, typically coalescing in the pestilent haze that hangs over the planet.
-[[Poggle\|Poggle]]
-[[Raizo\|Raizo]]
+[[Species/Poggle\|Poggle]] - Poggles (PAW-gull) are born lucky. Said to be the creation of the luck goddess [[Tykris\|Tykris]] the Dealer, the favor of fortune touches everything they do.
+[[Species/Raizo\|Raizo]] - Raizo (RYE-zoh) are a people born of the storm, and they all carry the power and ferocity of a raging tempest within them.
 [[Rangor\|Rangor]]
 [[Relicborn\|Relicborn]]
 [[Saurian\|Saurian]]
