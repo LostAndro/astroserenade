@@ -38,35 +38,35 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Marsoom\|Marsoom]] - Marsoom (mar-SOOM) are a bovine species with especially alien biology that grants them psionic prescience and highly tuned danger sense.
 [[Species/Motlien\|Motlien]] - Motliens (MOT-lee-in) are an absurd people twisted by the discordant tone of Thrill through their indulgence in sensory overload to drown out their pain.
 [[Species/Murexian\|Murexian]] - Murexians (mer-EX-ee-in) are an aquatic species of mollusklike humanoids that emerged from the dark depths of an ocean world.
-Nautilid
-Navili
-Nematoan
-Nilari
-Oculok
-Oozoid
-Pakku
-Plagueborn
-Poggle
-Raizo
-Rangor
-Relicborn
-Saurian
-Silkborn
-Skathári
-Skettik
-Solari
-Stardust Humans
-Stoneborn
-Tekal
-Terminox
-Threadborn
-Varg
-Vect
-Volcar
-Wrothian
-Yaungu
-Yoggoth
-Zamani
-Zephursa
-Zeticulan
-Zorbrak
+[[Species/Nautilid\|Nautilid]] - A species of galaxy-spanning travelers, the hulking, fishlike nautilids patrol space in their massive whorl ships, exploring and cataloging any planet with enough water to sustain a colony.
+[[Navili\|Navili]]
+[[Nematoan\|Nematoan]]
+[[Nilari\|Nilari]]
+[[Oculok\|Oculok]]
+[[Oozoid\|Oozoid]]
+[[Pakku\|Pakku]]
+[[Plagueborn\|Plagueborn]]
+[[Poggle\|Poggle]]
+[[Raizo\|Raizo]]
+[[Rangor\|Rangor]]
+[[Relicborn\|Relicborn]]
+[[Saurian\|Saurian]]
+[[Silkborn\|Silkborn]]
+[[Skathári\|Skathári]]
+[[Skettik\|Skettik]]
+[[Solari\|Solari]]
+[[Stardust Humans\|Stardust Humans]]
+[[Stoneborn\|Stoneborn]]
+[[Tekal\|Tekal]]
+[[Terminox\|Terminox]]
+[[Threadborn\|Threadborn]]
+[[Varg\|Varg]]
+[[Vect\|Vect]]
+[[Volcar\|Volcar]]
+[[Wrothian\|Wrothian]]
+[[Yaungu\|Yaungu]]
+[[Yoggoth\|Yoggoth]]
+[[Zamani\|Zamani]]
+[[Zephursa\|Zephursa]]
+[[Zeticulan\|Zeticulan]]
+[[Zorbrak\|Zorbrak]]
