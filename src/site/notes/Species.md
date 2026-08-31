@@ -59,7 +59,7 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Stoneborn\|Stoneborn]] - Stoneborn are a gargoyle-like species native to Pholsense, usually meticulously carved by the lord of the planet, Archbishop Danton Alexandre Renault.
 [[Species/Tekal\|Tekal]] - Tekal (teh-KAHL) are a people constructed from stone, crystal, and plant matter, powered by Harmonyte gemstone technology.
 [[Species/Terminox\|Terminox]] - Terminox (TER-mi-noks) are a bio-mechanical people reforged by the discordant tone of Progress through the hyper-logical denial of emotion to build structures of control around their pain.
-[[Threadborn\|Threadborn]]
+[[Species/Threadborn\|Threadborn]] - Threadborn are a doll-like species native to Cabaret that now lives on Pico, most often built with love by Blinski X, the master toymaker and lord of the planet.
 [[Varg\|Varg]]
 [[Vect\|Vect]]
 [[Volcar\|Volcar]]
