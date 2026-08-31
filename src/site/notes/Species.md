@@ -62,9 +62,9 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Threadborn\|Threadborn]] - Threadborn are a doll-like species native to Cabaret that now lives on Pico, most often built with love by Blinski X, the master toymaker and lord of the planet.
 [[Species/Varg\|Varg]] - Vargs (VAHRG) are a vampiric people corrupted by the discordant tone of Entropy through the envious yearning to fill the emptiness within them in the hopes it may quiet their pain.
 [[Species/Vect\|Vect]] - Living constructs designed as laborers, the vect are now free to search the Stardust Rhapsody for meaning.
-[[Volcar\|Volcar]]
-[[Wrothian\|Wrothian]]
-[[Yaungu\|Yaungu]]
+[[Species/Volcar\|Volcar]] - Volcar (VOAL-car) are a species of earth and fire, with fully elemental bodies of lava that they can melt and solidify at will.
+[[Species/Wrothian\|Wrothian]] - Most consider wrothians to be avowedly evil, a scourge of The Solar Federation; but by some providence, you were born different.
+[[Species/Yaungu\|Yaungu]] - Yaungu (YAWN-goo) are a hearty people born of the cold, bearing a deep, supernatural connection to ice and snow
 [[Yoggoth\|Yoggoth]]
 [[Zamani\|Zamani]]
 [[Zephursa\|Zephursa]]
