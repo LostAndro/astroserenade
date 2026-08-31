@@ -68,5 +68,5 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Yoggoth\|Yoggoth]] - Yoggoths (YAW-goth) are a strange species rumored to have been birthed from the eldritch dreams of the mysterious elder beings of the galaxy.
 [[Species/Zamani\|Zamani]] - Zamani (zuh-MAH-nee) are a people with an inherent, supernatural connection to time itself.
 [[Species/Zephursa\|Zephursa]] - Zephursa (zeh-FUR-suh) are a small, ursine species that hail from floating cities atop a sea of clouds.
-[[Zeticulan\|Zeticulan]]
+[[Species/Zeticulan\|Zeticulan]] - Zeticulans (zeh-TIK-yoo-lin) are one of the oldest and most enigmatic species of the Stardust Rhapsody, with some theorizing that they impossibly arrived from outside the galaxy
 [[Zorbrak\|Zorbrak]]
