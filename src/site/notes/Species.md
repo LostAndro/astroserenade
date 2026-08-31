@@ -53,11 +53,11 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Saurian\|Saurian]] - Saurians (SOR-ee-in) are the oldest species in the Stardust Rhapsody, appearing as humanoid versions of the galaxy’s numerous dinosaurs and similarly prehistoric reptiles.
 [[Species/Silkborn\|Silkborn]] - Silkborn are a spider-like species native to Nerukhet, typically emerging from silken cocoons amidst thick webbing that fills miles of tunnels throughout the subterranean planet.
 [[Species/Skathári\|Skathári]] - Hailing from the distant, mountainous world of Kopriá, whose seasons can last for years and whose volcanoes choke entire regions with sulfur gas, these insectoid creatures are perfectly adapted to life on harsh planets.
-[[Skettik\|Skettik]]
-[[Solari\|Solari]]
-[[Stardust Humans\|Stardust Humans]]
-[[Stoneborn\|Stoneborn]]
-[[Tekal\|Tekal]]
+[[Species/Skettik\|Skettik]] - Skettiks (SKEH-tik) are a flightless avian species suffused with innate necromantic energy, the remnants of a cataclysmic ritual that killed and reanimated the world soul of their homeworld.
+[[Species/Solari\|Solari]] - Solari (soh-LAH-ree) are the people of the solar phoenix, which has imbued them with the essence of the sun and an inherent connection to the cycle of rebirth.
+[[Species/Stardust Humans\|Stardust Humans]] - Humans are the most populous species of the Stardust Rhapsody by a wide margin, and they can be found on virtually every habitable planet across the galaxy.
+[[Species/Stoneborn\|Stoneborn]] - Stoneborn are a gargoyle-like species native to Pholsense, usually meticulously carved by the lord of the planet, Archbishop Danton Alexandre Renault.
+[[Species/Tekal\|Tekal]] - Tekal (teh-KAHL) are a people constructed from stone, crystal, and plant matter, powered by Harmonyte gemstone technology.
 [[Terminox\|Terminox]]
 [[Threadborn\|Threadborn]]
 [[Varg\|Varg]]
