@@ -4,7 +4,7 @@
 
 #### [[Species\|Species]]
 # Tekal
-![Tekal.png](/img/user/Tekal.png)
+![Tekal.png](/img/user/images/Tekal.png)
 Tekal (teh-KAHL) are a people constructed from stone, crystal, and plant matter, powered by Harmonyte gemstone technology. Their souls are manifested from the vital and somber energies of the Harmony itself, granting them the ability to harness the cycle of life and death.
 Many tekal have an unbound curiosity in the natural world and a sense of wonder in discovering all aspects of the Stardust Rhapsody and galactic living. Their affinity to the unique intersection of harmonic and primordial powers typically grants them a unique appreciation for all living things.
 Tekal have solidly built bodies embedded with gemstones and glowing patterns of inlaid crystal that evoke the circuitry of their natural technology. They have typically humanoid faces and plants that grow from their heads to resemble hair.
@@ -25,4 +25,4 @@ As a Tekal, you have these special traits
 	***Nature Affinity***. You can communicate in a limited manner with Beasts, Monstrosities, Plants, and vegetation. They understand the meaning of your words, though you can’t understand them in return. You have Advantage on ability checks made to sway them using the Influence action.
 
 ### Species Lineup
-![Tekalspread1.png](/img/user/Tekalspread1.png)
+![Tekalspread1.png](/img/user/images/Tekalspread1.png)
