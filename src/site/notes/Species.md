@@ -69,4 +69,4 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Zamani\|Zamani]] - Zamani (zuh-MAH-nee) are a people with an inherent, supernatural connection to time itself.
 [[Species/Zephursa\|Zephursa]] - Zephursa (zeh-FUR-suh) are a small, ursine species that hail from floating cities atop a sea of clouds.
 [[Species/Zeticulan\|Zeticulan]] - Zeticulans (zeh-TIK-yoo-lin) are one of the oldest and most enigmatic species of the Stardust Rhapsody, with some theorizing that they impossibly arrived from outside the galaxy
-[[Zorbrak\|Zorbrak]]
+[[Species/Zorbrak\|Zorbrak]] - Zorbraks (ZOR-brak) are a bipedal insectile species that have mantis-like features and boast a secondary pair of powerful scythe-like appendages in addition to their arms.
