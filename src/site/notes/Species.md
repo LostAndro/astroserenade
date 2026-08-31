@@ -60,8 +60,8 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Tekal\|Tekal]] - Tekal (teh-KAHL) are a people constructed from stone, crystal, and plant matter, powered by Harmonyte gemstone technology.
 [[Species/Terminox\|Terminox]] - Terminox (TER-mi-noks) are a bio-mechanical people reforged by the discordant tone of Progress through the hyper-logical denial of emotion to build structures of control around their pain.
 [[Species/Threadborn\|Threadborn]] - Threadborn are a doll-like species native to Cabaret that now lives on Pico, most often built with love by Blinski X, the master toymaker and lord of the planet.
-[[Varg\|Varg]]
-[[Vect\|Vect]]
+[[Species/Varg\|Varg]] - Vargs (VAHRG) are a vampiric people corrupted by the discordant tone of Entropy through the envious yearning to fill the emptiness within them in the hopes it may quiet their pain.
+[[Species/Vect\|Vect]] - Living constructs designed as laborers, the vect are now free to search the Stardust Rhapsody for meaning.
 [[Volcar\|Volcar]]
 [[Wrothian\|Wrothian]]
 [[Yaungu\|Yaungu]]
