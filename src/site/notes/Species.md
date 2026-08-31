@@ -58,7 +58,7 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Stardust Humans\|Stardust Humans]] - Humans are the most populous species of the Stardust Rhapsody by a wide margin, and they can be found on virtually every habitable planet across the galaxy.
 [[Species/Stoneborn\|Stoneborn]] - Stoneborn are a gargoyle-like species native to Pholsense, usually meticulously carved by the lord of the planet, Archbishop Danton Alexandre Renault.
 [[Species/Tekal\|Tekal]] - Tekal (teh-KAHL) are a people constructed from stone, crystal, and plant matter, powered by Harmonyte gemstone technology.
-[[Terminox\|Terminox]]
+[[Species/Terminox\|Terminox]] - Terminox (TER-mi-noks) are a bio-mechanical people reforged by the discordant tone of Progress through the hyper-logical denial of emotion to build structures of control around their pain.
 [[Threadborn\|Threadborn]]
 [[Varg\|Varg]]
 [[Vect\|Vect]]
