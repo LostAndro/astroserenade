@@ -9,3 +9,5 @@ The Following content is collected from a plethora of different sources all comp
 ## [[Species\|All Species]]
 _When you choose your character’s species, you determine whether your character is a human or a member of a fantastical species._
 
+## [[Feats\|All Feats]]
+At level 1 characters get access to one origin feat and gain general feats at later levels. These feats represent a character expertise outside of their class levels.
