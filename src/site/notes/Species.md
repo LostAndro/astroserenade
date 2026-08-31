@@ -65,8 +65,8 @@ The Stardust Rhapsody is home to countless beings and cultures, some of which ar
 [[Species/Volcar\|Volcar]] - Volcar (VOAL-car) are a species of earth and fire, with fully elemental bodies of lava that they can melt and solidify at will.
 [[Species/Wrothian\|Wrothian]] - Most consider wrothians to be avowedly evil, a scourge of The Solar Federation; but by some providence, you were born different.
 [[Species/Yaungu\|Yaungu]] - Yaungu (YAWN-goo) are a hearty people born of the cold, bearing a deep, supernatural connection to ice and snow
-[[Yoggoth\|Yoggoth]]
-[[Zamani\|Zamani]]
-[[Zephursa\|Zephursa]]
+[[Species/Yoggoth\|Yoggoth]] - Yoggoths (YAW-goth) are a strange species rumored to have been birthed from the eldritch dreams of the mysterious elder beings of the galaxy.
+[[Species/Zamani\|Zamani]] - Zamani (zuh-MAH-nee) are a people with an inherent, supernatural connection to time itself.
+[[Species/Zephursa\|Zephursa]] - Zephursa (zeh-FUR-suh) are a small, ursine species that hail from floating cities atop a sea of clouds.
 [[Zeticulan\|Zeticulan]]
 [[Zorbrak\|Zorbrak]]
