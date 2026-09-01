@@ -6,12 +6,12 @@
 # Origin Feats
 All Origin feat options are listen below
 
-[[Adamant Origin\|Adamant Origin]]
+[[Origin Feats listed/Adamant Origin\|Adamant Origin]] *(Prerequisite: Rocky Homeworld)*
 [[Affluent\|Affluent]]
-[[Airy Origin\|Airy Origin]]
+[[Origin Feats listed/Airy Origin\|Airy Origin]] *(Prerequisite: Airy or Storming Homeworld)*
 [[Origin Feats listed/Alert\|Alert]]
 [[Origin Feats listed/Altered\|Altered]]
-[[Aquatic Origin\|Aquatic Origin]]
+[[Origin Feats listed/Aquatic Origin\|Aquatic Origin]] *(Prerequisite: Oceanic Homeworld)*
 [[Origin Feats listed/Arcane Artist\|Arcane Artist]]
 [[Origin Feats listed/Arcane Eloquence\|Arcane Eloquence]]
 [[Origin Feats listed/Arcane Infiltrator\|Arcane Infiltrator]]
