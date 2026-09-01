@@ -24,26 +24,26 @@ All Origin feat options are listen below
 [[Origin Feats listed/Awakened Mind Origin\|Awakened Mind Origin]] *(Prerequisite: Eldritch or Psychic Homeworld)*
 [[Origin Feats listed/Blazing Origin\|Blazing Origin]] *(Prerequisite: Scorching Homeworld)*
 [[Blood Hound\|Blood Hound]]
-[[Brilliant Origin\|Brilliant Origin]]
+[[Origin Feats listed/Brilliant Origin\|Brilliant Origin]] *(Prerequisite: Luminous or Starry Homeworld)*
 [[Origin Feats listed/Charm Twister\|Charm Twister]]
 [[Origin Feats listed/Child of the Sun\|Child of the Sun]]
 [[Convincing Inquisitor\|Convincing Inquisitor]]
-[[Corrosive Origin\|Corrosive Origin]]
-[[Cosmic Origin\|Cosmic Origin]]
+[[Origin Feats listed/Corrosive Origin\|Corrosive Origin]] *(Prerequisite: Acidic, Radioactive, or Toxic Homeworld)*
+[[Origin Feats listed/Cosmic Origin\|Cosmic Origin]] *(Prerequisite: Starry or Temporal Homeworld)*
 [[Origin Feats listed/Crafter\|Crafter]]
 [[Creative\|Creative]]
 [[Origin Feats listed/Crimson Ritualist\|Crimson Ritualist]]
 [[Origin Feats listed/Cult Initiate\|Cult Initiate]]
 [[Curious\|Curious]]
 [[Deathbound\|Deathbound]]
-[[Discordant Origin\|Discordant Origin]]
+[[Origin Feats listed/Discordant Origin\|Discordant Origin]] *(Prerequisite: Cacophonous [Entropy, Instinct, Progress, or Thrill] Homeworld)*
 [[Origin Feats listed/Dread Speech\|Dread Speech]]
 [[Faithful\|Faithful]]
 [[Origin Feats listed/Fate Gambler\|Fate Gambler]]
-[[Flourishing Origin\|Flourishing Origin]]
+[[Origin Feats listed/Flourishing Origin\|Flourishing Origin]] *(Prerequisite: Harmonic, Idyllic, or Verdant Homeworld)*
 [[Fortune of the Thaumaturge\|Fortune of the Thaumaturge]]
 [[Free Sword Mercenary’s Will\|Free Sword Mercenary’s Will]]
-[[Frozen Origin\|Frozen Origin]]
+[[Origin Feats listed/Frozen Origin\|Frozen Origin]] *(Prerequisite: Frigid Homeworld)*
 [[Gambler\|Gambler]]
 [[Origin Feats listed/Grave Keeper\|Grave Keeper]]
 [[Grizzled\|Grizzled]]
@@ -71,7 +71,7 @@ All Origin feat options are listen below
 [[Origin Feats listed/Sharp Eye\|Sharp Eye]]
 [[Silver\|Silver]]
 [[Origin Feats listed/Skilled\|Skilled]]
-[[Space Origin\|Space Origin]]
+[[Origin Feats listed/Space Origin\|Space Origin]] *(Prerequisite: Space Homeworld)*
 [[Origin Feats listed/SurvivorRL\|Survivor]]
 [[SurvivorGH\|Survivor]]
 [[Origin Feats listed/Tavern Brawler\|Tavern Brawler]]
