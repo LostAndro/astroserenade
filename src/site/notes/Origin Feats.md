@@ -21,8 +21,8 @@ All Origin feat options are listen below
 [[Origin Feats listed/Arcane Undertaker\|Arcane Undertaker]]
 [[Origin Feats listed/Astute\|Astute]]
 [[Origin Feats listed/Augur\|Augur]]
-[[Awakened Mind Origin\|Awakened Mind Origin]]
-[[Blazing Origin\|Blazing Origin]]
+[[Origin Feats listed/Awakened Mind Origin\|Awakened Mind Origin]] *(Prerequisite: Eldritch or Psychic Homeworld)*
+[[Origin Feats listed/Blazing Origin\|Blazing Origin]] *(Prerequisite: Scorching Homeworld)*
 [[Blood Hound\|Blood Hound]]
 [[Brilliant Origin\|Brilliant Origin]]
 [[Origin Feats listed/Charm Twister\|Charm Twister]]
