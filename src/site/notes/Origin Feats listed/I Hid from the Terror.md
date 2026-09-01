@@ -12,6 +12,6 @@ You gain the following benefits.
 
 ***Shadowed Strike.*** If attacking would end the Invisible condition on you, you can make an attack and keep that condition. You can use this benefit a number of times equal to your proficiency bonus. You regain expended uses when you finish a long rest.
 
-***Beneath Notice.*** When you attempt to hide from a creature that is larger than you, you can hide if you are lightly obscured or more than 30 feet away from it. You gain the benefits of being hidden against such creatures, but you do not hide from other creatures.
+**Beneath Notice.** When you attempt to hide from a creature that is larger than you, you can hide if you are lightly obscured or more than 30 feet away from it. You gain the benefits of being hidden against such creatures, but you do not hide from other creatures.
 
 ***Merge into Shadows.*** Wisdom (Perception) checks made to detect you while you have the Invisible condition have disadvantage.

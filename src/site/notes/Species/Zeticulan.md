@@ -4,7 +4,7 @@
 
 #### [[Species\|Species]]
 # Zeticulan
-![Zeticulan.png](/img/user/Zeticulan.png)
+![Zeticulan.png](/img/user/images/Zeticulan.png)
 Zeticulans (zeh-TIK-yoo-lin) are one of the oldest and most enigmatic species of the Stardust Rhapsody, with some theorizing that they impossibly arrived from outside the galaxy. Their minds are so expansive that they have unlocked a psionic power that emanates past their own bodies and allows them to pierce into the minds of others using telepathy.
 Many zeticulans crave knowledge above all else, desiring to study, understand, and catalog every aspect of existence down to its last atom. They are drawn to any opportunity to conduct experiments of all varieties or the chance to expand their mental databases. While many remain elusive and mysterious, there are some who venture to mingle with other peoples of the galaxy to learn through new and unpredictable life experiences.
 Varying in size and shape, zeticulans are alien humanoids with smooth skin that is typically gray or green. They have thin, elongated necks, oversized, bulbous craniums, and large, dark eyes with slit-like pupils. Among the hairless majority, a few can grow shocks of vibrant, nearly neon hair atop their heads.
@@ -22,4 +22,4 @@ As a Zeticulan, you have these special traits
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast using this trait (choose the ability when you select this species)
 
 ### Species Lineup
-![Zeticulanspread1.png](/img/user/Zeticulanspread1.png)![Zeticulanspread2.png](/img/user/Zeticulanspread2.png)
+![Zeticulanspread1.png](/img/user/images/Zeticulanspread1.png)![Zeticulanspread2.png](/img/user/images/Zeticulanspread2.png)

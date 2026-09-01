@@ -4,8 +4,8 @@
 
 #### [[Species\|Species]]
 # Nilari
-![Nilari.png](/img/user/Nilari.png)
-Nilari (nih-LAR-ee) are the people of the void wyrm, which has granted them various draconic features that make them well suited to resisting the horrors of the Abyssal Void. While they were once the same progenitor species as the solari eons ago, the people who would become nilari chose to escape the doom of their homeworld by slipping into the Wyrmways and fusing their biology with the native creatures within.
+![Nilari.png](/img/user/images/Nilari.png)
+Nilari (nih-LAR-ee) are the people of the void wyrm, which has granted them various draconic features that make them well suited to resisting the horrors of the Abyssal Void. While they were once the same progenitor species as the [[Species/Solari\|solari]] eons ago, the people who would become nilari chose to escape the doom of their homeworld by slipping into the Wyrmways and fusing their biology with the native creatures within.
 All nilari have the blood of the wyrm, with many of them embracing this draconic lineage to steel their body and mind against all that would seek to corrupt and destroy them. Some take this further and pursue might in all its forms to stand against the darkness of the void.
 Nilari are typically broader and beefier than their solari relatives, with physical traits of the void wyrm that manifest in varying ways, including pointed, fin-like ears, fleshy tendrils that grow along the jawline, jagged horns, plate-like scales, and claw-like hands. Their skin tends to have muted shades of purple, blue, or grayscale.
 ### Nilari Traits
@@ -22,4 +22,4 @@ As a Nilari, you have these special traits
 	***Wyrmhole Slip***. As a Bonus Action, you can teleport up to 30 feet to an unoccupied space you can see. Until the end of the turn, the area within 10 feet of your starting or destination space (your choice) is Difficult Terrain for your enemies. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Species Lineup
-![Nilarispread1.png](/img/user/Nilarispread1.png)![Nilarispread2.png](/img/user/Nilarispread2.png)
+![Nilarispread1.png](/img/user/images/Nilarispread1.png)![Nilarispread2.png](/img/user/images/Nilarispread2.png)

@@ -4,7 +4,7 @@
 
 #### [[Species\|Species]]
 # Volcar
-![Volcar.png](/img/user/Volcar.png)
+![Volcar.png](/img/user/images/Volcar.png)
 Volcar (VOAL-car) are a species of earth and fire, with fully elemental bodies of lava that they can melt and solidify at will. Able to sustain themselves entirely on minerals, they are a hearty people who thrive on their volcanic homeworld.
 Many volcar are fascinated by and study cycles, especially the relationship between destruction and renewal. They are often nomadic, following seasons, currents, patterns, and other natural phases. Some prefer more social or political cycles, getting involved in governments or militaries.
 Their rocky hide runs a variety of earthen shades from dark obsidian to pale limestone, with a humanoid visage that appears like a chiseled statue or a natural rock formation. Glowing lava forms lines and patterns in their exterior and can ignite at a moment’s notice, turning their whole form redhot and malleable
@@ -22,4 +22,4 @@ As a Volcar, you have these special traits
 	***Solidified Obsidian***. When you are hit by an attack roll, you can take a Reaction to add your Proficiency Bonus to your AC against that attack, possibly causing it to miss. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Species Lineup
-![Volcarspread1.png](/img/user/Volcarspread1.png)![Volcarspread2.png](/img/user/Volcarspread2.png)
+![Volcarspread1.png](/img/user/images/Volcarspread1.png)![Volcarspread2.png](/img/user/images/Volcarspread2.png)

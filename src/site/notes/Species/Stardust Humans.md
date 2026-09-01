@@ -4,7 +4,7 @@
 
 #### [[Species\|Species]]
 # Stardust Humans
-![Human.png](/img/user/Species/Human.png)
+![Human.png](/img/user/images/Human.png)
 Humans are the most populous species of the Stardust Rhapsody by a wide margin, and they can be found on virtually every habitable planet across the galaxy. They have no singular homeworld, and legend says that they simply stepped out of the Harmony on all worlds simultaneously one day.
 They are highly adaptable and can make a comfortable life no matter where they’re from or where they choose to settle down. In the face of trials, tribulations, and hardships, the indomitable human spirit oftentimes prevails, allowing them to overcome whatever challenges they face and complete whatever hero’s journey they are set on by fate.
 Humans are as diverse in appearance as they are in personality, and come in all shapes, sizes, colors, and physical attributes.

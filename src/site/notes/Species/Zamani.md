@@ -4,7 +4,7 @@
 
 #### [[Species\|Species]]
 # Zamani
-![Zamani.png](/img/user/Zamani.png)
+![Zamani.png](/img/user/images/Zamani.png)
 Zamani (zuh-MAH-nee) are a people with an inherent, supernatural connection to time itself. They perceive time and their place in it differently than every other species of the galaxy, allowing them to look into the immediate future and see numerous outcomes. Between this and their physical adaptation to handle heat, zamani thrive on their harsh desert homeworld.
 Many zamani have a stoic philosophy of acceptance, and many of the worries of day-to-day life can seem insignificant in the grand scheme of time. While some believe that their temporal powers make them the masters of their own fate, others believe nothing can be done to change one’s destiny.
 Zamani have sun-tempered skin that runs from dark earth shades to muted jewel tones with embedded gemstones that focus their inherent energies. Their heads have raised ridges and plates that serve as heat sinks, and their bodies are typically covered in elaborate, geometric patterns of gold that evoke the flow of time.
@@ -21,4 +21,4 @@ As a Zamani, you have these special traits
 	***Timing is Everything***. When you fail a D20 Test, you can add 1d4 to the total, possibly turning the failure into a success. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Species Lineup
-![Zamanispread1.png](/img/user/Zamanispread1.png)![Zamanispread2.png](/img/user/Zamanispread2.png)
+![Zamanispread1 1.png](/img/user/images/Zamanispread1%201.png)![Zamanispread2.png](/img/user/images/Zamanispread2.png)

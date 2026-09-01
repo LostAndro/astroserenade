@@ -8,6 +8,7 @@
 A species of galaxy-spanning travelers, the hulking, fishlike nautilids patrol space in their massive whorl ships, exploring and cataloging any planet with enough water to sustain a colony. Few ever see these creatures’ true forms, for they are most often concealed in imposing suits that look more like antique diving gear than sophisticated survival apparatuses.
 One day without warning their star began to swell, first heating the atmosphere, then boiling the oceans away. Within a few short decades, a supernova claimed the planet, leaving only scattered colonies and immense nautilid colony ships.
 Without their homeworld, the nautilids are an orphaned species, growing up on small colonies and inside massive water-filled ships called whorls, which travel the universe. Their numbers dwindle with each decade, and if nothing changes, the next few centuries might see the end of the nautilids altogether.
+Ingenious and indefatigable, the nautilids search tirelessly, jumping from planet to planet in pursuit of a new homeworld. The oceans of Poseidon had a very specific aquatic composition of rare elements and dissolved gasses known as the Poseidon Solution. Though nautilids can live in both air and water, they do so uncomfortably, and can only relax (and produce offspring) in a similar solution.
 
 ### Nautilid Traits
 **Creature Type**: Humanoid 

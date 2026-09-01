@@ -4,7 +4,7 @@
 
 #### [[Origin Feats\|Origin Feats]]
 # Protected
-Source: Bound by Blood
+Source: Vampire: The Masquerade – Bound by Blood
 *Origin Feat*
 
 You have someone or something guarding you for as long as you can remember, even if you don't know why. You gain the following benefits.

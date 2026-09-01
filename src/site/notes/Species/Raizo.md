@@ -4,7 +4,7 @@
 
 #### [[Species\|Species]]
 # Raizo
-![Raizo.png](/img/user/Raizo.png)
+![Raizo.png](/img/user/images/Raizo.png)
 Raizo (RYE-zoh) are a people born of the storm, and they all carry the power and ferocity of a raging tempest within them. Hailing from a world beset by never-ending, violent storms, they possess the supernatural ability to unleash the power of thunder, lightning, and rain to overcome staggering odds.
 They typically have a fearlessness against danger and overwhelming obstacles, often conquering any barrier in their way. This relentlessness has allowed many to master the elements and thrive in harsh, inhospitable environments.
 Raizo are typically tall, solidly built, and often heavily muscled. A pair of horns grow from the top of their foreheads, and they sport tusks from their lower jaw. Their skin runs in shades of red, blue, green, gray, or yellow. Many raizo display tattoos that reflect particularly important aspects of their nature or personality.
@@ -26,4 +26,4 @@ As a Raizo, you have these special traits
 	**Thunder Soul (Thunder Damage)**. At the start of each of your turns, each creature of your choice in the Emanation must succeed on a Strength saving throw (DC 8 plus your Proficiency Bonus and the ability modifier you chose for Storm Magic) or be pushed up to 10 feet away from you. A creature that fails the save by 5 or more has the Prone condition.
 
 ### Species Lineup
-![Raizospread1.png](/img/user/Raizospread1.png)![Raizospread2.png](/img/user/Raizospread2.png)
+![Raizospread1.png](/img/user/images/Raizospread1.png)![Raizospread2.png](/img/user/images/Raizospread2.png)

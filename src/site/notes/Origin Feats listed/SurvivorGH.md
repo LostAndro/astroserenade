@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/origin-feats-listed/survivor-gh/","dg-note-properties":{}}
+---
+
+#### [[Origin Feats\|Origin Feats]]
+# Survivor
+Source: Grim Hollow Transformed
+*Origin Feat*
+
+Your ability to make the best out of a bad situation has served you well. You gain the following benefits.
+
+***Hardy.*** You need half the amount of food per day based on your size.
+
+***Intuitive.*** When you take the Study action, you have Advantage on Intelligence checks made when taking the Study action.
+
+***Shake It Off.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1. Additionally, when you finish a Long Rest, your Exhaustion level decreases by 2.

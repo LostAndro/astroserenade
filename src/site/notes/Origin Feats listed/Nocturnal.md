@@ -4,7 +4,7 @@
 
 #### [[Origin Feats\|Origin Feats]]
 # Nocturnal
-Source: Bound by Blood
+Source: Vampire: The Masquerade – Bound by Blood
 *Origin Feat*
 
 You have spent many formative years in the darkness of night. You gain the following benefits.
