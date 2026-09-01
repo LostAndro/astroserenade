@@ -76,8 +76,8 @@ All Origin feat options are listen below
 [[SurvivorGH\|Survivor]]
 [[Origin Feats listed/Tavern Brawler\|Tavern Brawler]]
 [[Technical\|Technical]]
-[[Technologic Origin\|Technologic Origin]]
-[[Tenebrous Origin\|Tenebrous Origin]]
+[[Origin Feats listed/Technologic Origin\|Technologic Origin]] *(Prerequisite: Technological or Urbanized Homeworld)*
+[[Origin Feats listed/Tenebrous Origin\|Tenebrous Origin]] *(Prerequisite: Deathly, Harmonic, or Shadowy Homeworld)*
 [[Origin Feats listed/Tireless Reveler\|Tireless Reveler]]
 [[Origin Feats listed/Tough\|Tough]]
 [[Triage Expert\|Triage Expert]]
