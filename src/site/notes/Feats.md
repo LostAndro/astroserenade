@@ -6,6 +6,8 @@
 # Feats
 There are 4 primary types of feats, each of which has a section below.
 
+Occasionally you will find that some language is changed from the original published version of the feat. This is to better reflect the world of the Stardust Rhapsody and its player options.
+
 ## [[Origin Feats\|Origin Feats]]
 Feats available to most at level 1
 ![Originfeats.png](/img/user/images/Originfeats.png)
