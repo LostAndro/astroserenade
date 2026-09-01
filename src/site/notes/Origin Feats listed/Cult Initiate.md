@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/origin-feats-listed/cult-initiate/","dg-note-properties":{}}
+---
+
+#### [[Origin Feats\|Origin Feats]]
+# Cult Initiate
+Source: The Crooked Moon
+*Origin Feat*
+
+Your cult instructs you in eldritch rites, granting you the following benefits.
+
+***Two Cantrips***. You learn two cantrips of your choice from the Cryptist spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat’s spells (choose the ability when you select this feat).
+
+***Level 1 Spell***. Choose a level 1 spell from the Cryptist spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Short or Long Rest. You can also cast the spell using any spell slots you have.
+
+***Spell Change***. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the Warlock spell list.
