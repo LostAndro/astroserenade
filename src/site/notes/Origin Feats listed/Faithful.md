@@ -4,7 +4,7 @@
 
 #### [[Origin Feats\|Origin Feats]]
 # Faithful
-Source: Steinhardt’s Guide to the Eldritch Hunt Player Pack
+Source: Steinhardt’s Guide to the Eldritch Hunt
 *Origin Feat*
 
 You gain the following benefits.
