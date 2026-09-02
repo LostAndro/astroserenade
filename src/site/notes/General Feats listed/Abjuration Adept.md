@@ -15,10 +15,10 @@ You gain the following benefits.
 
 ## Abjuration Adept Spells
 
-| Spell Level | Spell                      |
-| ----------- | -------------------------- |
-| 1           | [[Shield\|Shield]]                 |
-| 2           | [[Lesser Restoration\|Lesser Restoration]]     |
-| 3           | [[Protection from Energy\|Protection from Energy]] |
-| 4           | [[Banishment\|Banishment]]             |
-| 5           | [[Mass Cure Wounds\|Mass Cure Wounds]]       |
+| Spell Slot Level | Spell                      |
+| ---------------- | -------------------------- |
+| 1                | [[Shield\|Shield]]                 |
+| 2                | [[Lesser Restoration\|Lesser Restoration]]     |
+| 3                | [[Protection from Energy\|Protection from Energy]] |
+| 4                | [[Banishment\|Banishment]]             |
+| 5                | [[Mass Cure Wounds\|Mass Cure Wounds]]       |
