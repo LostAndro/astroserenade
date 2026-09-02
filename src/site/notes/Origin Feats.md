@@ -39,6 +39,7 @@ All Origin feat options are listen below
 [[Origin Feats listed/Discordant Origin\|Discordant Origin]] *(Prerequisite: Cacophonous [Entropy, Instinct, Progress, or Thrill] Homeworld)*
 [[Origin Feats listed/Dread Speech\|Dread Speech]]
 [[Origin Feats listed/Faithful\|Faithful]]
+[[Origin Feats listed/Familiar Friend\|Familiar Friend]]
 [[Origin Feats listed/Fate Gambler\|Fate Gambler]]
 [[Origin Feats listed/Flourishing Origin\|Flourishing Origin]] *(Prerequisite: Harmonic, Idyllic, or Verdant Homeworld)*
 [[Origin Feats listed/Fortune of the Thaumaturge\|Fortune of the Thaumaturge]]
@@ -79,6 +80,7 @@ All Origin feat options are listen below
 [[Origin Feats listed/Tenebrous Origin\|Tenebrous Origin]] *(Prerequisite: Deathly, Harmonic, or Shadowy Homeworld)*
 [[Origin Feats listed/Tireless Reveler\|Tireless Reveler]]
 [[Origin Feats listed/Tough\|Tough]]
+[[Origin Feats listed/Transmuted Anatomy\|Transmuted Anatomy]]
 [[Origin Feats listed/Triage Expert\|Triage Expert]]
 [[Origin Feats listed/Unreflected\|Unreflected]]
 [[Origin Feats listed/Vampire Hunter\|Vampire Hunter]]
