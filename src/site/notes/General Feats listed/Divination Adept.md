@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/general-feats-listed/divination-adept/","dg-note-properties":{}}
+---
+
+#### [[General Feats\|General Feats]]
+# Divination Adept
+Source: Arcana Unleashed
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+
+You gain the following benefits.
+
+***Additional Spells.*** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Divination Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.
+
+***Prescient Intervention.*** When you cast a spell from the Abjuration school using a spell slot, you or one creature you can see within 30 feet of yourself gains Temporary Hit Points equal to twice the level of spell slot expended.
+
+## Abjuration Adept Spells
+
+| Spell Level | Spell                      |
+| ----------- | -------------------------- |
+| 1           | [[Shield\|Shield]]                 |
+| 2           | [[Lesser Restoration\|Lesser Restoration]]     |
+| 3           | [[Protection from Energy\|Protection from Energy]] |
+| 4           | [[Banishment\|Banishment]]             |
+| 5           | [[Mass Cure Wounds\|Mass Cure Wounds]]       |
