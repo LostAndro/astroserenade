@@ -5,7 +5,7 @@
 #### [[General Feats\|General Feats]]
 # Elemental Familiar
 Source: Arcana Unleashed
-*General Feat (Prerequisite: Level 4+, [[Familiar Friend\|Familiar Friend]] Feat)*
+*General Feat (Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 
 You gain the following benefits.
 

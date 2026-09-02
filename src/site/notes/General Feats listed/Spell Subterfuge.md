@@ -5,7 +5,7 @@
 #### [[General Feats\|General Feats]]
 # Spell Subterfuge
 Source: Arcana Unleashed
-*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+*General Feat (Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 
 You gain the following benefits.
 

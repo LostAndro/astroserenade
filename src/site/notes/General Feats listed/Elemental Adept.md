@@ -5,7 +5,7 @@
 #### [[General Feats\|General Feats]]
 # Elemental Adept
 Source: Player's Handbook
-*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+*General Feat (Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 
 You gain the following benefits.
 

@@ -6,7 +6,7 @@
 # General Feats
 All General feat options are listen below
 
-[[Abjuration Adept \|Abjuration Adept ]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[Abjuration Adept \|Abjuration Adept ]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Actor\|Actor]] *(Prerequisite: Level 4+, Charisma 13+)*
 [[Arcane Geometry\|Arcane Geometry]] 
 [[General Feats listed/Athlete\|Athlete]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
@@ -15,38 +15,38 @@ All General feat options are listen below
 [[General Feats listed/Bomber\|Bomber]] *(Prerequisite: Level 4+)*
 [[Borrowed Future\|Borrowed Future]] 
 [[Brutal Grip\|Brutal Grip]]
-[[Brutalizer\|Brutalizer]] 
-[[Cartomancer\|Cartomancer]] 
+[[General Feats listed/Brutalizer\|Brutalizer]] *(Prerequisite: Level 4+, Strength 16+)*
+[[General Feats listed/Cartomancer\|Cartomancer]] *(Prerequisite: Level 4+, Spellcasting Feature)*
 [[General Feats listed/Charger\|Charger]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Chef\|Chef]] *(Prerequisite: Level 4+)*
 [[Chronomancy Initiate\|Chronomancy Initiate]] 
 [[General Feats listed/Cloying Mists\|Cloying Mists]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Cold Caster\|Cold Caster]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Conjuration Adept\|Conjuration Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Conjuration Adept\|Conjuration Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Cosmos Touched\|Cosmos Touched]] 
 [[General Feats listed/Crossbow Expert\|Crossbow Expert]] *(Prerequisite: Level 4+, Dexterity 13+)*
-[[Cruel\|Cruel]]
+[[General Feats listed/Cruel\|Cruel]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Crusher\|Crusher]] *(Prerequisite: Level 4+)*
 [[Death Defier\|Death Defier]] 
 [[General Feats listed/Defensive Duelist\|Defensive Duelist]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Delicious Pain\|Delicious Pain]] *(Prerequisite: Level 4+)*
 [[Demolitionist\|Demolitionist]] 
 [[Desert Willpower\|Desert Willpower]] 
-[[General Feats listed/Divination Adept\|Divination Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Divination Adept\|Divination Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Dual Wielder\|Dual Wielder]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
-[[Dungeon Delver\|Dungeon Delver]]
+[[General Feats listed/Dungeon Delver\|Dungeon Delver]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Durable\|Durable]] *(Prerequisite: Level 4+)*
-[[Eldritch Adept\|Eldritch Adept]]
-[[General Feats listed/Elemental Adept\|Elemental Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Eldritch Adept\|Eldritch Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic feature)*
+[[General Feats listed/Elemental Adept\|Elemental Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Elemental Familiar\|Elemental Familiar]]  *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
-[[General Feats listed/Enchantment Adept\|Enchantment Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
-[[General Feats listed/Evocation Adept\|Evocation Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Enchantment Adept\|Enchantment Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
+[[General Feats listed/Evocation Adept\|Evocation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Expanded Grip\|Expanded Grip]] 
 [[Factotum\|Factotum]] 
 [[General Feats listed/Fairy Trickster\|Fairy Trickster]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Fey Touched\|Fey Touched]] *(Prerequisite: Level 4+)*
 [[Field Commander\|Field Commander]] 
-[[Flash Recall\|Flash Recall]]
+[[General Feats listed/Flash Recall\|Flash Recall]] *(Prerequisite: Level 4+, Spellcasting feature from a class that prepares spells)*
 [[Flex Caster\|Flex Caster]] 
 [[Focused Critical\|Focused Critical]]
 [[Grafter\|Grafter]] 
@@ -56,7 +56,7 @@ All General feat options are listen below
 [[General Feats listed/Heavily Armored\|Heavily Armored]] *(Prerequisite: Level 4+, Medium Armor Training)*
 [[General Feats listed/Heavy Armor Master\|Heavy Armor Master]] *(Prerequisite: Level 4+, Heavy Armor Training)*
 [[Hulking Figure\|Hulking Figure]] 
-[[General Feats listed/Illusion Adept\|Illusion Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Illusion Adept\|Illusion Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Imaginal-Touched\|Imaginal-Touched]]
 [[General Feats listed/Inspiring Leader\|Inspiring Leader]] *(Prerequisite: Level 4+, Wisdom or Charisma 13+)*
 [[Iron Gut\|Iron Gut]] 
@@ -83,9 +83,9 @@ All General feat options are listen below
 [[Mithridatist\|Mithridatist]] 
 [[General Feats listed/Moderately Armored\|Moderately Armored]] *(Prerequisite: Level 4+, Light Armor Training)*
 [[General Feats listed/Mounted Combatant\|Mounted Combatant]] *(Prerequisite: Level 4+)*
-[[Mystic Conflux\|Mystic Conflux]]
+[[General Feats listed/Mystic Conflux\|Mystic Conflux]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mythal Touched\|Mythal Touched]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Necromancy Adept\|Necromancy Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Necromancy Adept\|Necromancy Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Nimble Physique\|Nimble Physique]] 
 [[General Feats listed/Observant\|Observant]] *(Prerequisite: Level 4+, Intelligence or Wisdom 13+)*
 [[General Feats listed/Otherworldly Familiar\|Otherworldly Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
@@ -96,7 +96,7 @@ All General feat options are listen below
 [[General Feats listed/Putrefy\|Putrefy]] *(Prerequisite: Level 4+)*
 [[Pyromaniac\|Pyromaniac]] 
 [[General Feats listed/Rebuke\|Rebuke]] *(Prerequisite: Level 4+)*
-[[Remarkable Recovery\|Remarkable Recovery]]
+[[General Feats listed/Remarkable Recovery\|Remarkable Recovery]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Resilient\|Resilient]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Ritual Caster\|Ritual Caster]] *(Prerequisite: Level 4+,  Intelligence, Wisdom, or Charisma 13+)*
 [[Sangromantic Initiate\|Sangromantic Initiate]] 
@@ -114,26 +114,26 @@ All General feat options are listen below
 [[Solar Savvy\|Solar Savvy]] 
 [[General Feats listed/Soothing Familiar\|Soothing Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Speedy\|Speedy]] *(Prerequisite: Level 4+, Dexterity or Constitution 13+)*
-[[Spelldriver\|Spelldriver]]
+[[General Feats listed/Spelldriver\|Spelldriver]] *(Prerequisite: Level 11+, Spellcasting or Occult Magic feature)*
 [[General Feats listed/Spell Resistant\|Spell Resistant]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Spell Sniper\|Spell Sniper]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
-[[Spell Subterfuge\|Spell Subterfuge]] 
+[[General Feats listed/Spell Sniper\|Spell Sniper]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
+[[General Feats listed/Spell Subterfuge\|Spell Subterfuge]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Spray ‘n’ Pray\|Spray ‘n’ Pray]] 
 [[General Feats listed/Street Justice\|Street Justice]] *(Prerequisite: Level 4+)*
 [[Swift Witchcraft\|Swift Witchcraft]] 
 [[General Feats listed/Tactical Combatant\|Tactical Combatant]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Telekinetic\|Telekinetic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Telepathic\|Telepathic]] *(Prerequisite: Level 4+)*
-[[Thrown Arms Master\|Thrown Arms Master]]
+[[General Feats listed/Thrown Arms Master\|Thrown Arms Master]] *(Prerequisite: Level 4+)*
 [[Thrown Weapon Master\|Thrown Weapon Master]] 
 [[Timestream Swimmer\|Timestream Swimmer]] 
 [[Timewarped\|Timewarped]] 
-[[Transmutation Adept\|Transmutation Adept]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+[[General Feats listed/Transmutation Adept\|Transmutation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Treacherous Allure\|Treacherous Allure]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Vampire Touched\|Vampire Touched]] *(Prerequisite: Level 4+)*
-[[Vital Sacrifice\|Vital Sacrifice]]
-[[General Feats listed/War Caster\|War Caster]] *(Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
-[[Warlike Familiar\|Warlike Familiar]] 
+[[General Feats listed/Vital Sacrifice\|Vital Sacrifice]] *(Prerequisite: Level 4+)*
+[[General Feats listed/War Caster\|War Caster]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
+[[General Feats listed/Warlike Familiar\|Warlike Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Weapon Master\|Weapon Master]] *(Prerequisite: Level 4+)*
 [[Witch Hunter\|Witch Hunter]] 
 [[Witness to Judgement\|Witness to Judgement]] 
