@@ -11,14 +11,15 @@ You gain the following benefits.
 
 ***Additional Spells.*** Your prowess allows you to always have certain spells at the ready. When you have spell slots of a level specified in the Divination Adept Spells table, you thereafter always have the spells listed for that level and lower prepared.
 
-***Prescient Intervention.*** When you cast a spell from the Abjuration school using a spell slot, you or one creature you can see within 30 feet of yourself gains Temporary Hit Points equal to twice the level of spell slot expended.
+***Prescient Intervention.*** When a creature you can see within 60 feet of yourself makes a D20 Test, you can take a Reaction to give that creature Advantage or Disadvantage (your choice) on that roll.
+Once you use this benefit, you can't do so again until you finish a Long Rest. You can also regain use of this feature when you cast a spell from the Divination school using a spell slot
 
-## Abjuration Adept Spells
+## Divination Adept Spells
 
-| Spell Level | Spell                      |
-| ----------- | -------------------------- |
-| 1           | [[Shield\|Shield]]                 |
-| 2           | [[Lesser Restoration\|Lesser Restoration]]     |
-| 3           | [[Protection from Energy\|Protection from Energy]] |
-| 4           | [[Banishment\|Banishment]]             |
-| 5           | [[Mass Cure Wounds\|Mass Cure Wounds]]       |
+| Spell Slot Level | Spell                    |
+| ---------------- | ------------------------ |
+| 1                | [[Detect Evil and Good\|Detect Evil and Good]] |
+| 2                | [[Mind Spike\|Mind Spike]]           |
+| 3                | [[Clairvoyance\|Clairvoyance]]         |
+| 4                | [[Divination\|Divination]]           |
+| 5                | [[Scrying\|Scrying]]              |
