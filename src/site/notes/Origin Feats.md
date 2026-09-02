@@ -62,6 +62,7 @@ All Origin feat options are listen below
 [[Origin Feats listed/Memory Starved\|Memory Starved]]
 [[Origin Feats listed/Musician\|Musician]]
 [[Origin Feats listed/Nocturnal\|Nocturnal]]
+[[Origin Feats listed/Portal Jumper\|Portal Jumper]]
 [[Origin Feats listed/Protected\|Protected]]
 [[Origin Feats listed/Reveling Fool\|Reveling Fool]]
 [[Origin Feats listed/Savage Attacker\|Savage Attacker]]
