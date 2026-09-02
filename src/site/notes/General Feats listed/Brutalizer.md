@@ -9,6 +9,6 @@ Source: Steinhardt's Guide To The Eldritch Hunt
 
 You master a reckless approach that maximizes your offensive capabilities. You gain the following benefits.
 
-Brutal Weaponry.*** You can wield a weapon with the Two-Handed property in one hand, as long as your other hand is empty or wielding a one-handed weapon.
+***Brutal Weaponry.*** You can wield a weapon with the Two-Handed property in one hand, as long as your other hand is empty or wielding a one-handed weapon.
 
 ***Killing Streak.*** When you reduce a creature to 0 Hit Points, your next attack roll before the end of your next turn has Advantage.

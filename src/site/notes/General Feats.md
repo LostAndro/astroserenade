@@ -23,7 +23,7 @@ All General feat options are listen below
 [[General Feats listed/Cloying Mists\|Cloying Mists]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Cold Caster\|Cold Caster]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Conjuration Adept\|Conjuration Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
-[[Cosmos Touched\|Cosmos Touched]] 
+[[General Feats listed/Cosmos Touched\|Cosmos Touched]] 
 [[General Feats listed/Crossbow Expert\|Crossbow Expert]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Cruel\|Cruel]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Crusher\|Crusher]] *(Prerequisite: Level 4+)*
