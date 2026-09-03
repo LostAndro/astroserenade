@@ -19,7 +19,7 @@ All General feat options are listen below
 [[General Feats listed/Cartomancer\|Cartomancer]] *(Prerequisite: Level 4+, Spellcasting Feature)*
 [[General Feats listed/Charger\|Charger]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Chef\|Chef]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Chronomancy Initiate\|Chronomancy Initiate]] 
+[[General Feats listed/Chronomancy Initiate\|Chronomancy Initiate]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Cloying Mists\|Cloying Mists]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Cold Caster\|Cold Caster]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Conjuration Adept\|Conjuration Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
@@ -27,10 +27,10 @@ All General feat options are listen below
 [[General Feats listed/Crossbow Expert\|Crossbow Expert]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Cruel\|Cruel]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Crusher\|Crusher]] *(Prerequisite: Level 4+)*
-[[Death Defier\|Death Defier]] 
+[[General Feats listed/Death Defier\|Death Defier]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Defensive Duelist\|Defensive Duelist]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Delicious Pain\|Delicious Pain]] *(Prerequisite: Level 4+)*
-[[Demolitionist\|Demolitionist]] 
+[[General Feats listed/Demolitionist\|Demolitionist]] *(Prerequisites: Level 4+, Strength or Dexterity 13+)*
 [[Desert Willpower\|Desert Willpower]] 
 [[General Feats listed/Divination Adept\|Divination Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Dual Wielder\|Dual Wielder]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
@@ -42,17 +42,17 @@ All General feat options are listen below
 [[General Feats listed/Enchantment Adept\|Enchantment Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Evocation Adept\|Evocation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Expanded Grip\|Expanded Grip]] 
-[[Factotum\|Factotum]] 
+[[General Feats listed/Factotum\|Factotum]] *(Prerequisites: Level 4+)*
 [[General Feats listed/Fairy Trickster\|Fairy Trickster]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Fey Touched\|Fey Touched]] *(Prerequisite: Level 4+)*
-[[Field Commander\|Field Commander]] 
+[[General Feats listed/Field Commander\|Field Commander]] *(Prerequisites: Level 4+, Charisma 13+)*
 [[General Feats listed/Flash Recall\|Flash Recall]] *(Prerequisite: Level 4+, Spellcasting feature from a class that prepares spells)*
-[[Flex Caster\|Flex Caster]] 
-[[Focused Critical\|Focused Critical]]
-[[Grafter\|Grafter]] 
+[[General Feats listed/Flex Caster\|Flex Caster]] *(Prerequisite: Level 4+, Spellcasting Feature)*
+[[General Feats listed/Focused Critical\|Focused Critical]] *(Prerequisites: Level 4+)*
+[[General Feats listed/Grafter\|Grafter]] *(Prerequisites: Level 4+)*
 [[General Feats listed/Grappler\|Grappler]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Great Weapon Master\|Great Weapon Master]] *(Prerequisite: Level 4+, Strength 13+)*
-[[Gun-Mage Adept\|Gun-Mage Adept]]
+[[General Feats listed/Gun-Mage Adept\|Gun-Mage Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Heavily Armored\|Heavily Armored]] *(Prerequisite: Level 4+, Medium Armor Training)*
 [[General Feats listed/Heavy Armor Master\|Heavy Armor Master]] *(Prerequisite: Level 4+, Heavy Armor Training)*
 [[Hulking Figure\|Hulking Figure]] 
@@ -60,10 +60,10 @@ All General feat options are listen below
 [[Imaginal-Touched\|Imaginal-Touched]]
 [[General Feats listed/Inspiring Leader\|Inspiring Leader]] *(Prerequisite: Level 4+, Wisdom or Charisma 13+)*
 [[Iron Gut\|Iron Gut]] 
-[[Iron Hero\|Iron Hero]] 
+[[General Feats listed/Iron Hero\|Iron Hero]] *(Prerequisite: Level 4+)*
 [[Jinnbinder\|Jinnbinder]] 
 [[General Feats listed/Keen Mind\|Keen Mind]] *(Prerequisite: Level 4+, Intelligence 13+)*
-[[Laser Swordsmaster\|Laser Swordsmaster]] 
+[[General Feats listed/Laser Swordsmaster\|Laser Swordsmaster]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Light Bringer\|Light Bringer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Lightly Armored\|Lightly Armored]] *(Prerequisite: Level 4+)*
 [[Lightning Caster\|Lightning Caster]] 
@@ -71,13 +71,13 @@ All General feat options are listen below
 [[Love Bites \|Love Bites ]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mage Slayer\|Mage Slayer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Magic Connoisseur\|Magic Connoisseur]] *(Prerequisite: Level 4+, [[Origin Feats listed/Magic Initiate\|Magic Initiate]] Feat)*
-[[Magitechnician\|Magitechnician]] 
-[[Marksman’s Luck\|Marksman’s Luck]] 
+[[General Feats listed/Magitechnician\|Magitechnician]] *(Prerequisite: Level 4+)*
+[[General Feats listed/Marksman’s Luck\|Marksman’s Luck]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Martial Weapon Training\|Martial Weapon Training]] *(Prerequisite: Level 4+)*
-[[Mechanic\|Mechanic]] 
+[[General Feats listed/Mechanic\|Mechanic]] *(Prerequisite: Level 4+, Intelligence 13+)*
 [[Medician of the Morbus Doctore\|Medician of the Morbus Doctore]] 
 [[Medium Armor Master \|Medium Armor Master ]] *(Prerequisite: Level 4+, Medium Armor Training)*
-[[Merc\|Merc]] 
+[[General Feats listed/Merc\|Merc]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[Mirage Maestro\|Mirage Maestro]] 
 [[Mithridatist\|Mithridatist]] 
 [[General Feats listed/Moderately Armored\|Moderately Armored]] *(Prerequisite: Level 4+, Light Armor Training)*
@@ -91,9 +91,9 @@ All General feat options are listen below
 [[General Feats listed/Piercer\|Piercer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Poisoner\|Poisoner]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Polearm Master\|Polearm Master]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
-[[Precognitive\|Precognitive]] 
+[[General Feats listed/Precognitive\|Precognitive]] *(Prerequisites: Level 4+, Wisdom 13+)*
 [[General Feats listed/Putrefy\|Putrefy]] *(Prerequisite: Level 4+)*
-[[Pyromaniac\|Pyromaniac]] 
+[[General Feats listed/Pyromaniac\|Pyromaniac]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Rebuke\|Rebuke]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Remarkable Recovery\|Remarkable Recovery]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Resilient\|Resilient]] *(Prerequisite: Level 4+)*
@@ -104,12 +104,12 @@ All General feat options are listen below
 [[General Feats listed/Sharpshooter\|Sharpshooter]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Shield Master\|Shield Master]] *(Prerequisite: Level 4+, Shield Training)*
 [[General Feats listed/Shifting Combatant\|Shifting Combatant]] *(Prerequisite: Level 4+, Weapon Mastery Feature)*
-[[Shock Trooper\|Shock Trooper]] 
-[[Showman\|Showman]] 
+[[General Feats listed/Shock Trooper\|Shock Trooper]] *(Prerequisite: Level 4+, Strength 13+)*
+[[General Feats listed/Showman\|Showman]] *(Prerequisite: Level 4+, Charisma 13+)*
 [[General Feats listed/Skill Expert\|Skill Expert]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Skulker\|Skulker]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Slasher\|Slasher]] *(Prerequisite: Level 4+)*
-[[Smuggler\|Smuggler]] 
+[[General Feats listed/Smuggler\|Smuggler]] 
 [[Solar Savvy\|Solar Savvy]] 
 [[General Feats listed/Soothing Familiar\|Soothing Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Speedy\|Speedy]] *(Prerequisite: Level 4+, Dexterity or Constitution 13+)*
@@ -119,7 +119,7 @@ All General feat options are listen below
 [[General Feats listed/Spell Subterfuge\|Spell Subterfuge]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[Spray ‘n’ Pray\|Spray ‘n’ Pray]] 
 [[General Feats listed/Street Justice\|Street Justice]] *(Prerequisite: Level 4+)*
-[[Swift Witchcraft\|Swift Witchcraft]] 
+[[General Feats listed/Swift Witchcraft\|Swift Witchcraft]] 
 [[General Feats listed/Tactical Combatant\|Tactical Combatant]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Telekinetic\|Telekinetic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Telepathic\|Telepathic]] *(Prerequisite: Level 4+)*
