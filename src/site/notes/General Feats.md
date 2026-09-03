@@ -10,20 +10,20 @@ All General feat options are listen below
 [[General Feats listed/Actor\|Actor]] *(Prerequisite: Level 4+, Charisma 13+)*
 [[Arcane Geometry\|Arcane Geometry]] 
 [[General Feats listed/Athlete\|Athlete]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
-[[Blaster Master\|Blaster Master]]
+[[General Feats listed/Blaster Master\|Blaster Master]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Bloodlust\|Bloodlust]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Bomber\|Bomber]] *(Prerequisite: Level 4+)*
 [[Borrowed Future\|Borrowed Future]] 
-[[Brutal Grip\|Brutal Grip]]
+[[General Feats listed/Brutal Grip\|Brutal Grip]] *(Prerequisite: Level 4+, Strength 13+)*
 [[General Feats listed/Brutalizer\|Brutalizer]] *(Prerequisite: Level 4+, Strength 16+)*
 [[General Feats listed/Cartomancer\|Cartomancer]] *(Prerequisite: Level 4+, Spellcasting Feature)*
 [[General Feats listed/Charger\|Charger]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Chef\|Chef]] *(Prerequisite: Level 4+)*
-[[Chronomancy Initiate\|Chronomancy Initiate]] 
+[[General Feats listed/Chronomancy Initiate\|Chronomancy Initiate]] 
 [[General Feats listed/Cloying Mists\|Cloying Mists]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Cold Caster\|Cold Caster]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Conjuration Adept\|Conjuration Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
-[[General Feats listed/Cosmos Touched\|Cosmos Touched]] 
+[[General Feats listed/Cosmos Touched\|Cosmos Touched]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Crossbow Expert\|Crossbow Expert]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Cruel\|Cruel]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Crusher\|Crusher]] *(Prerequisite: Level 4+)*
@@ -72,7 +72,6 @@ All General feat options are listen below
 [[General Feats listed/Mage Slayer\|Mage Slayer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Magic Connoisseur\|Magic Connoisseur]] *(Prerequisite: Level 4+, [[Origin Feats listed/Magic Initiate\|Magic Initiate]] Feat)*
 [[Magitechnician\|Magitechnician]] 
-[[Marksman\|Marksman]] 
 [[Marksman’s Luck\|Marksman’s Luck]] 
 [[General Feats listed/Martial Weapon Training\|Martial Weapon Training]] *(Prerequisite: Level 4+)*
 [[Mechanic\|Mechanic]] 
