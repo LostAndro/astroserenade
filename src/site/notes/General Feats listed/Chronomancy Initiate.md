@@ -5,7 +5,7 @@
 #### [[General Feats\|General Feats]]
 # Chronomancy Initiate
 Source: Dark Matter Revised
-*General Feat Chronomancy Initiate*
+*General Feat (Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 
 You gain the following benefits.
 
