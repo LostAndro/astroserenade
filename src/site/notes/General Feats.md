@@ -79,7 +79,7 @@ All General feat options are listen below
 [[Medium Armor Master \|Medium Armor Master ]] *(Prerequisite: Level 4+, Medium Armor Training)*
 [[General Feats listed/Merc\|Merc]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Mirage Maestro\|Mirage Maestro]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Mithridatist\|Mithridatist]] 
+[[General Feats listed/Mithridatist\|Mithridatist]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Moderately Armored\|Moderately Armored]] *(Prerequisite: Level 4+, Light Armor Training)*
 [[General Feats listed/Mounted Combatant\|Mounted Combatant]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mystic Conflux\|Mystic Conflux]] *(Prerequisite: Level 4+)*
@@ -110,23 +110,23 @@ All General feat options are listen below
 [[General Feats listed/Skulker\|Skulker]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Slasher\|Slasher]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Smuggler\|Smuggler]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Solar Savvy\|Solar Savvy]] 
+[[General Feats listed/Solar Savvy\|Solar Savvy]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Soothing Familiar\|Soothing Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Speedy\|Speedy]] *(Prerequisite: Level 4+, Dexterity or Constitution 13+)*
 [[General Feats listed/Spelldriver\|Spelldriver]] *(Prerequisite: Level 11+, Spellcasting or Occult Magic feature)*
 [[General Feats listed/Spell Resistant\|Spell Resistant]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Spell Sniper\|Spell Sniper]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Spell Subterfuge\|Spell Subterfuge]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
-[[Spray ‘n’ Pray\|Spray ‘n’ Pray]] 
+[[General Feats listed/Spray ‘n’ Pray\|Spray ‘n’ Pray]] *(Prerequisite: Level 4+, Proficiency with Reload weapons)*
 [[General Feats listed/Street Justice\|Street Justice]] *(Prerequisite: Level 4+)*
-[[General Feats listed/Swift Witchcraft\|Swift Witchcraft]] 
+[[General Feats listed/Swift Witchcraft\|Swift Witchcraft]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Tactical Combatant\|Tactical Combatant]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Telekinetic\|Telekinetic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Telepathic\|Telepathic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Thrown Arms Master\|Thrown Arms Master]] *(Prerequisite: Level 4+)*
 [[Thrown Weapon Master\|Thrown Weapon Master]] 
-[[Timestream Swimmer\|Timestream Swimmer]] 
-[[Timewarped\|Timewarped]] 
+[[General Feats listed/Timestream Swimmer\|Timestream Swimmer]] 
+[[General Feats listed/Timewarped\|Timewarped]] 
 [[General Feats listed/Transmutation Adept\|Transmutation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Treacherous Allure\|Treacherous Allure]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Vampire Touched\|Vampire Touched]] *(Prerequisite: Level 4+)*
