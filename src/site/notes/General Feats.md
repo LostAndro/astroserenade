@@ -41,7 +41,7 @@ All General feat options are listen below
 [[General Feats listed/Elemental Familiar\|Elemental Familiar]]  *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Enchantment Adept\|Enchantment Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Evocation Adept\|Evocation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
-[[Expanded Grip\|Expanded Grip]] 
+[[General Feats listed/Expanded Grip\|Expanded Grip]] *(Prerequisite: Level 4+, Strength 13+)*
 [[General Feats listed/Factotum\|Factotum]] *(Prerequisites: Level 4+)*
 [[General Feats listed/Fairy Trickster\|Fairy Trickster]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Fey Touched\|Fey Touched]] *(Prerequisite: Level 4+)*
@@ -55,7 +55,7 @@ All General feat options are listen below
 [[General Feats listed/Gun-Mage Adept\|Gun-Mage Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Heavily Armored\|Heavily Armored]] *(Prerequisite: Level 4+, Medium Armor Training)*
 [[General Feats listed/Heavy Armor Master\|Heavy Armor Master]] *(Prerequisite: Level 4+, Heavy Armor Training)*
-[[Hulking Figure\|Hulking Figure]] 
+[[General Feats listed/Hulking Figure\|Hulking Figure]] *(Prerequisite: Level 4+, Strength 13+)*
 [[General Feats listed/Illusion Adept\|Illusion Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Imaginal-Touched\|Imaginal-Touched]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Inspiring Leader\|Inspiring Leader]] *(Prerequisite: Level 4+, Wisdom or Charisma 13+)*
@@ -67,7 +67,7 @@ All General feat options are listen below
 [[General Feats listed/Light Bringer\|Light Bringer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Lightly Armored\|Lightly Armored]] *(Prerequisite: Level 4+)*
 [[Lightning Caster\|Lightning Caster]] 
-[[Linguist\|Linguist]] 
+[[General Feats listed/Linguist\|Linguist]] *(Prerequisite: Level 4+)*
 [[Love Bites \|Love Bites ]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mage Slayer\|Mage Slayer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Magic Connoisseur\|Magic Connoisseur]] *(Prerequisite: Level 4+, [[Origin Feats listed/Magic Initiate\|Magic Initiate]] Feat)*
@@ -125,8 +125,8 @@ All General feat options are listen below
 [[General Feats listed/Telepathic\|Telepathic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Thrown Arms Master\|Thrown Arms Master]] *(Prerequisite: Level 4+)*
 [[Thrown Weapon Master\|Thrown Weapon Master]] 
-[[General Feats listed/Timestream Swimmer\|Timestream Swimmer]] 
-[[General Feats listed/Timewarped\|Timewarped]] 
+[[General Feats listed/Timestream Swimmer\|Timestream Swimmer]] *(Prerequisite: Level 4+)*
+[[General Feats listed/Timewarped\|Timewarped]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Transmutation Adept\|Transmutation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Treacherous Allure\|Treacherous Allure]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Vampire Touched\|Vampire Touched]] *(Prerequisite: Level 4+)*
@@ -135,4 +135,4 @@ All General feat options are listen below
 [[General Feats listed/Warlike Familiar\|Warlike Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Weapon Master\|Weapon Master]] *(Prerequisite: Level 4+)*
 [[Witch Hunter\|Witch Hunter]] 
-[[Witness to Judgement\|Witness to Judgement]] 
+[[General Feats listed/Witness to Judgement\|Witness to Judgement]] *(Prerequisite: Level 4+, Have Died)*
