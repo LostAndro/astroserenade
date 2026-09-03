@@ -59,14 +59,14 @@ All General feat options are listen below
 [[General Feats listed/Illusion Adept\|Illusion Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Imaginal-Touched\|Imaginal-Touched]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Inspiring Leader\|Inspiring Leader]] *(Prerequisite: Level 4+, Wisdom or Charisma 13+)*
-[[Iron Gut\|Iron Gut]] 
+[[General Feats listed/Iron Gut\|Iron Gut]] *(Prerequisite: Level 4+, Constitution 13+)*
 [[General Feats listed/Iron Hero\|Iron Hero]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Jinnbinder\|Jinnbinder]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Keen Mind\|Keen Mind]] *(Prerequisite: Level 4+, Intelligence 13+)*
 [[General Feats listed/Laser Swordsmaster\|Laser Swordsmaster]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Light Bringer\|Light Bringer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Lightly Armored\|Lightly Armored]] *(Prerequisite: Level 4+)*
-[[Lightning Caster\|Lightning Caster]] 
+[[General Feats listed/Lightning Caster\|Lightning Caster]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Linguist\|Linguist]] *(Prerequisite: Level 4+)*
 [[Love Bites \|Love Bites ]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mage Slayer\|Mage Slayer]] *(Prerequisite: Level 4+)*
@@ -75,7 +75,7 @@ All General feat options are listen below
 [[General Feats listed/Marksman’s Luck\|Marksman’s Luck]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Martial Weapon Training\|Martial Weapon Training]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mechanic\|Mechanic]] *(Prerequisite: Level 4+, Intelligence 13+)*
-[[Medician of the Morbus Doctore\|Medician of the Morbus Doctore]] 
+[[General Feats listed/Medician of the Morbus Doctore\|Medician of the Morbus Doctore]] *(Prerequisite: Level 4+, Triage Expert Feat)*
 [[Medium Armor Master \|Medium Armor Master ]] *(Prerequisite: Level 4+, Medium Armor Training)*
 [[General Feats listed/Merc\|Merc]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Mirage Maestro\|Mirage Maestro]] *(Prerequisite: Level 4+)*
@@ -85,7 +85,7 @@ All General feat options are listen below
 [[General Feats listed/Mystic Conflux\|Mystic Conflux]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mythal Touched\|Mythal Touched]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Necromancy Adept\|Necromancy Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
-[[Nimble Physique\|Nimble Physique]] 
+[[General Feats listed/Nimble Physique\|Nimble Physique]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Observant\|Observant]] *(Prerequisite: Level 4+, Intelligence or Wisdom 13+)*
 [[General Feats listed/Otherworldly Familiar\|Otherworldly Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Piercer\|Piercer]] *(Prerequisite: Level 4+)*
@@ -98,8 +98,8 @@ All General feat options are listen below
 [[General Feats listed/Remarkable Recovery\|Remarkable Recovery]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Resilient\|Resilient]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Ritual Caster\|Ritual Caster]] *(Prerequisite: Level 4+,  Intelligence, Wisdom, or Charisma 13+)*
-[[Sangromantic Initiate\|Sangromantic Initiate]] 
-[[Sentinel\|Sentinel]] 
+[[General Feats listed/Sangromantic Initiate\|Sangromantic Initiate]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
+[[General Feats listed/Sentinel\|Sentinel]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Shadow Touched\|Shadow Touched]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Sharpshooter\|Sharpshooter]] *(Prerequisite: Level 4+, Dexterity 13+)*
 [[General Feats listed/Shield Master\|Shield Master]] *(Prerequisite: Level 4+, Shield Training)*
@@ -124,7 +124,7 @@ All General feat options are listen below
 [[General Feats listed/Telekinetic\|Telekinetic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Telepathic\|Telepathic]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Thrown Arms Master\|Thrown Arms Master]] *(Prerequisite: Level 4+)*
-[[Thrown Weapon Master\|Thrown Weapon Master]] 
+[[General Feats listed/Thrown Weapon Master\|Thrown Weapon Master]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Timestream Swimmer\|Timestream Swimmer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Timewarped\|Timewarped]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Transmutation Adept\|Transmutation Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
@@ -134,5 +134,5 @@ All General feat options are listen below
 [[General Feats listed/War Caster\|War Caster]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Warlike Familiar\|Warlike Familiar]] *(Prerequisite: Level 4+, [[Origin Feats listed/Familiar Friend\|Familiar Friend]] Feat)*
 [[General Feats listed/Weapon Master\|Weapon Master]] *(Prerequisite: Level 4+)*
-[[Witch Hunter\|Witch Hunter]] 
+[[General Feats listed/Witch Hunter\|Witch Hunter]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Witness to Judgement\|Witness to Judgement]] *(Prerequisite: Level 4+, Have Died)*

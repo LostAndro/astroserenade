@@ -7,7 +7,7 @@
 Source: Grim Hollow Transformed
 *General Feat (Prerequisite: Level 4+, Strength 13+)*
 
-You gain the following benefits.
+Either from extensive training or a natural build, you have a broad and formidable size for your species. You gain the following benefits.
 
 ***Brutal.*** Once per turn, you can deal an extra 1d4 Bludgeoning damage to a target you hit with an Unarmed Strike.
 

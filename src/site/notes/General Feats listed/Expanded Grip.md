@@ -7,7 +7,7 @@
 Source: Grim Hollow Transformed
 *General Feat (Prerequisite: Level 4+, Strength 13+)*
 
-You gain the following benefits.
+Your natural ability with larger weapons lets you use them in a way others can’t. You gain the following benefits.
 
 ***One-Handed Grip.*** When you use a Versatile weapon with one hand, the weapon deals the damage in parentheses when used to make a melee attack.
 
