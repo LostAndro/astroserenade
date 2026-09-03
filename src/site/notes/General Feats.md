@@ -6,7 +6,7 @@
 # General Feats
 All General feat options are listen below
 
-[[Abjuration Adept \|Abjuration Adept ]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
+[[General Feats listed/Abjuration Adept\|Abjuration Adept]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Actor\|Actor]] *(Prerequisite: Level 4+, Charisma 13+)*
 [[General Feats listed/Arcane Geometry\|Arcane Geometry]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Athlete\|Athlete]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
@@ -68,7 +68,7 @@ All General feat options are listen below
 [[General Feats listed/Lightly Armored\|Lightly Armored]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Lightning Caster\|Lightning Caster]] *(Prerequisite: Level 4+, Spellcasting or Occult Magic Feature)*
 [[General Feats listed/Linguist\|Linguist]] *(Prerequisite: Level 4+)*
-[[Love Bites \|Love Bites ]] *(Prerequisite: Level 4+)*
+[[General Feats listed/Love Bites\|Love Bites]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mage Slayer\|Mage Slayer]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Magic Connoisseur\|Magic Connoisseur]] *(Prerequisite: Level 4+, [[Origin Feats listed/Magic Initiate\|Magic Initiate]] Feat)*
 [[General Feats listed/Magitechnician\|Magitechnician]] *(Prerequisite: Level 4+)*
@@ -76,7 +76,7 @@ All General feat options are listen below
 [[General Feats listed/Martial Weapon Training\|Martial Weapon Training]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mechanic\|Mechanic]] *(Prerequisite: Level 4+, Intelligence 13+)*
 [[General Feats listed/Medician of the Morbus Doctore\|Medician of the Morbus Doctore]] *(Prerequisite: Level 4+, Triage Expert Feat)*
-[[Medium Armor Master \|Medium Armor Master ]] *(Prerequisite: Level 4+, Medium Armor Training)*
+[[General Feats listed/Medium Armor Master\|Medium Armor Master]] *(Prerequisite: Level 4+, Medium Armor Training)*
 [[General Feats listed/Merc\|Merc]] *(Prerequisite: Level 4+, Strength or Dexterity 13+)*
 [[General Feats listed/Mirage Maestro\|Mirage Maestro]] *(Prerequisite: Level 4+)*
 [[General Feats listed/Mithridatist\|Mithridatist]] *(Prerequisite: Level 4+)*
