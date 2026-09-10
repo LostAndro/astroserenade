@@ -71,5 +71,5 @@ As an Emotional Dji, you have these special traits.
 | ------ | ----------- | ------------------ | -------------------- | ----------------- |
 | Air    | Lightning   | [[Shocking Grasp\|Shocking Grasp]] | [[Longstrider\|Longstrider]]      | [[Gust of Wind\|Gust of Wind]]  |
 | Earth  | Acid        | [[Earthen Fist\|Earthen Fist]]   | [[Earthen Uppercut\|Earthen Uppercut]] | [[Snakebite\|Snakebite]]     |
-| Fire   | Fire        | [[Firebolt\|Firebolt]]       | [[Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
+| Fire   | Fire        | [[Fire Bolt\|Fire Bolt]]      | [[Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
 | Water  | Cold        | [[Ray of Frost\|Ray of Frost]]   | [[Ice Knife\|Ice Knife]]        | [[Freezing Fog\|Freezing Fog]]  |

@@ -11,7 +11,7 @@ Many spellcasters in Neon Odyssey work their magic through hypertech rather than
 Hypertech spellcasters use Hypertech Component Packs for their Material components, and all of their spells have an M component and lack a V component. They must have a Hypertech Component Pack or the specific Material component for a spell to cast it. Describe and rename your spells to showcase their scientific or technological origin. For example, Fireball might instead be Thermal Detonator for a hypertech spellcaster. The spell's function is otherwise unchanged.
 
 ## Spells by Level
-[[Cantrips\|Cantrips]]
+[[Spells/Cantrips Listed/Cantrips\|Cantrips]]
 [[Level 1\|Level 1]]
 [[Level 2\|Level 2]]
 [[Level 3\|Level 3]]
