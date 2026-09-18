@@ -53,9 +53,9 @@ As an Emotional Dji, you have these special traits.
 
 | Aspect    | Level 1            | Level 3            | Level 5                      |
 | --------- | ------------------ | ------------------ | ---------------------------- |
-| Friction  | [[Friction\|Friction]]       | [[Spikeskin\|Spikeskin]]      | [[Spike Growth\|Spike Growth]]             |
-| Gravity   | [[Soften Descent\|Soften Descent]] | [[Repulsing Palm\|Repulsing Palm]] | [[Gravity Lapse\|Gravity Lapse]]            |
-| Magnetism | [[Magnetobolt\|Magnetobolt]]    | [[Magnetism\|Magnetism]]      | [[Arcanomagnetic Repulsion\|Arcanomagnetic Repulsion]] |
+| Friction  | [[Spells/Cantrips Listed/Friction\|Friction]]       | [[Spikeskin\|Spikeskin]]      | [[Spike Growth\|Spike Growth]]             |
+| Gravity   | [[Spells/Cantrips Listed/Soften Descent\|Soften Descent]] | [[Repulsing Palm\|Repulsing Palm]] | [[Gravity Lapse\|Gravity Lapse]]            |
+| Magnetism | [[Spells/Cantrips Listed/Magnetobolt\|Magnetobolt]]    | [[Magnetism\|Magnetism]]      | [[Arcanomagnetic Repulsion\|Arcanomagnetic Repulsion]] |
 | Time      | [[Spells/Cantrips Listed/Guidance\|Guidance]]       | [[Doom Future\|Doom Future]]    | [[Protection\|Protection]]               |
 ### Emotional Aspects
 
@@ -70,6 +70,6 @@ As an Emotional Dji, you have these special traits.
 | Aspect | Damage Type | Level 1            | Level 3              | Level 5           |
 | ------ | ----------- | ------------------ | -------------------- | ----------------- |
 | Air    | Lightning   | [[Spells/Cantrips Listed/Shocking Grasp\|Shocking Grasp]] | [[Longstrider\|Longstrider]]      | [[Gust of Wind\|Gust of Wind]]  |
-| Earth  | Acid        | [[Earthen Fist\|Earthen Fist]]   | [[Earthen Uppercut\|Earthen Uppercut]] | [[Snakebite\|Snakebite]]     |
+| Earth  | Acid        | [[Spells/Cantrips Listed/Earthen Fist\|Earthen Fist]]   | [[Earthen Uppercut\|Earthen Uppercut]] | [[Snakebite\|Snakebite]]     |
 | Fire   | Fire        | [[Spells/Cantrips Listed/Fire Bolt\|Fire Bolt]]      | [[Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
 | Water  | Cold        | [[Spells/Cantrips Listed/Ray of Frost\|Ray of Frost]]   | [[Ice Knife\|Ice Knife]]        | [[Freezing Fog\|Freezing Fog]]  |
