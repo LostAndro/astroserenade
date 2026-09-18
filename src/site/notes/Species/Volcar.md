@@ -15,7 +15,7 @@ Their rocky hide runs a variety of earthen shades from dark obsidian to pale lim
 
 As a Volcar, you have these special traits
 	***Furnace Metabolism***. You don’t gain Exhaustion levels from dehydration, and you can eat minerals and glass as if they were a similar amount of food.
-	***Hot Lava***. You know the [[Produce Flame\|Produce Flame]] cantrip. Constitution is your spellcasting ability for it.
+	***Hot Lava***. You know the [[Spells/Cantrips Listed/Produce Flame\|Produce Flame]] cantrip. Constitution is your spellcasting ability for it.
 	***Igneous Hide***. You have Resistance to Fire damage and Poison damage. You also have Advantage on saving throws you make to avoid or end the Petrified condition or the Poisoned condition.
 	***Molten Form***. As a Bonus Action, you can melt your rocky body into lava for 1 minute, until you have the Incapacitated condition, or until you end it early (no action required). For the duration, you have Immunity to Fire damage, you can move through spaces as narrow as 1 foot without spending extra movement to do so, and you can move through a creature’s space as if it were Difficult Terrain. When you move through a creature’s space, you can deal 1d4 Fire damage to it. A creature takes this damage only once per turn. The damage increases by 1d4 when you reach character levels 5 (2d4), 11 (3d4), and 17 (4d4). Your equipment shapes with your molten form and is unharmed by this transformation.
 	Once you use this Bonus Action, you can’t do so again until you finish a Short or Long Rest.

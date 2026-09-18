@@ -13,7 +13,7 @@ Sprouting feathers across their entire body and wings attached to each of their 
 **Speed**: 30 feet, Fly Speed equal to your Speed
 
 As an Azureborn, you have these special traits.
-	***Azure Legacy***. You know the [[Guidance\|Guidance]] cantrip. Starting at character level 3, you always have the [[Augury\|Augury]] spell prepared and can cast it once without a spell slot or Material components, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have of the appropriate level.
+	***Azure Legacy***. You know the [[Spells/Cantrips Listed/Guidance\|Guidance]] cantrip. Starting at character level 3, you always have the [[Augury\|Augury]] spell prepared and can cast it once without a spell slot or Material components, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
 	***Darkvision***. You have Darkvision with a range of 60 feet.
 	***Glimpse Fate***. When you roll Initiative, if you aren’t surprised, you can choose a number of creatures that you can see equal to your Proficiency Bonus. The targets have Advantage on their Initiative rolls. Once you use this trait, you can’t do so again until you finish a Short or Long Rest.

@@ -13,7 +13,7 @@ Their short stature ranges from slight to stout, but this makes them no less dan
 **Speed**: 30 feet
 
 As an Ashborn, you have these special traits.
-	***Ashen Legacy***. You know the [[Minor Illusion\|Minor Illusion]] cantrip. Additionally, starting at character level 3 you always have the [[Charm Person\|Charm Person]] spell prepared, and starting at character level 5 you always have the [[Invisibility\|Invisibility]] spell prepared. You can cast them each once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast them using any spell slots you have of the appropriate level.
+	***Ashen Legacy***. You know the [[Spells/Cantrips Listed/Minor Illusion\|Minor Illusion]] cantrip. Additionally, starting at character level 3 you always have the [[Charm Person\|Charm Person]] spell prepared, and starting at character level 5 you always have the [[Invisibility\|Invisibility]] spell prepared. You can cast them each once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast them using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
 	**Darkvision**. You have Darkvision with a range of 60 feet.
 	***Fiendish Fortune***. When you’re hit by an attack roll that isn’t a Critical Hit, you can take a Reaction to magically cause the attack to miss you, and a creature of your choice within 5 feet of you takes Force damage equal to your Proficiency Bonus. Once you use this trait, you can’t do so again until you finish a Short or Long Rest.

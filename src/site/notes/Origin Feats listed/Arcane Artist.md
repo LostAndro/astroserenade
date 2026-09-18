@@ -9,6 +9,6 @@ Source: Arcana Unleashed
 
 You gain the following benefits.
 
-***Cantrip.*** You learn the [[Minor Illusion\|Minor Illusion]] cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+***Cantrip.*** You learn the [[Spells/Cantrips Listed/Minor Illusion\|Minor Illusion]] cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
 ***Inspiring Magic.*** When you cast a spell from the illusion school of magic, you can choose one ally within 30 feet of yourself that can see you. That ally gains Heroic Inspiration. Once you use this benefit, you can't use it again until you finish a long rest.

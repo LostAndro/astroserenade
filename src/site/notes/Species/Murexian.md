@@ -18,7 +18,7 @@ As a Murexian, you have these special traits
 	***Cold Resistance***. You have Resistance to Cold damage.
 	***Darkvision***. You have Darkvision with a range of 120 feet.
 	***Evolutionary Adaptation***. You have evolved a gift from Karkosa. Choose one of the following options.
-	**Chromatic**. You have proficiency in the Deception or Persuasion skill, and you learn the [[Message\|Message]] cantrip. Charisma is your spellcasting ability for it.
+	**Chromatic**. You have proficiency in the Deception or Persuasion skill, and you learn the [[Spells/Cantrips Listed/Message\|Message]] cantrip. Charisma is your spellcasting ability for it.
 	**Electrosensory**. You have proficiency in the Insight or Perception skill. You gain Blindsight with a range of 10 feet, or increase any existing Blindsight's range by 10 feet.
 	**Traversal**. You have proficiency in the Athletics or Stealth skill, and you gain your choice of a Burrow Speed or a Climb Speed equal to your Speed.
 	***Touch of Karkosa***. When you reach character level 3, you evolve a defensive physical trait of your choice from the options below. You can use the chosen trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

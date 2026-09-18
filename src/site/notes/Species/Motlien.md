@@ -15,7 +15,7 @@ Motliens resemble fools, jesters, and clowns, with rubbery, colorful skin marked
 
 As a Motlien, you have these special traits
 	***Ageless***. You don't suffer from or die of old age.
-	***Motley Tricks***. You know the[[ Minor Illusion\| Minor Illusion]] and [[Vicious Mockery\|Vicious Mockery]] cantrips.
+	***Motley Tricks***. You know the[[ Minor Illusion\| Minor Illusion]] and [[Spells/Cantrips Listed/Vicious Mockery\|Vicious Mockery]] cantrips.
 	Additionally, starting at character level 3, you always have the [[Hideous Laughter\|Hideous Laughter]] spell prepared, and starting at character level 5, you always have the [[Suggestion\|Suggestion]] spell prepared. You can cast each of these spells once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast them using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
 	***Toon Force***. You can take a Reaction when you gain one of the following conditions to end it before it takes effect: Charmed, Frightened, Poisoned, Prone, or Stunned. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.

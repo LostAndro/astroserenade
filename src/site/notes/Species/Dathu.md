@@ -15,7 +15,7 @@ Dathu possess insectile traits found in the forces of Instinct, with scaly skin 
 
 As an Dathu, you have these special traits
 	***Ageless***. You don't suffer from or die of old age.
-	***Acid Spray***. You know the [[Acid Splash\|Acid Splash]] cantrip. Constitution is your spellcasting ability for it.
+	***Acid Spray***. You know the [[Spells/Cantrips Listed/Acid Splash\|Acid Splash]] cantrip. Constitution is your spellcasting ability for it.
 	You can modify the spell to cast it as a Bonus Action. When you cast the spell in this way, you can change the area to a 30-foot Line that is 5 feet wide that sprays from you. You can modify this spell a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 	***Corrosive Blood***. You have Resistance to Acid damage.
 	***Hive Mind***. You have telepathy with a range in feet equal to 10 times your character level.

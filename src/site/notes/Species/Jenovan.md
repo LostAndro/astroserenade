@@ -16,7 +16,7 @@ Jenovans have an appearance that betrays their genetically engineered origin, wi
 As an Jenovan, you have these special traits
 	***Bioengineered***. You have proficiency in the Acrobatics, Athletics, or Stealth skill.
 	***Psionic Deflection***. When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to add your Proficiency bonus to your AC, possibly causing it to miss. If you make an attack miss this way, choose a creature you can see within 30 feet of you that isn’t behind Total Cover. The target takes 1d10 Force damage. You can take this Reaction a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-	***Telekinetic***. You know the [[Kinetic Propulsion\|Kinetic Propulsion]] cantrip and the [[Mage Hand\|Mage Hand]] cantrip (the hand is invisible). 
+	***Telekinetic***. You know the [[Spells/Cantrips Listed/Kinetic Propulsion\|Kinetic Propulsion]] cantrip and the [[Spells/Cantrips Listed/Mage Hand\|Mage Hand]] cantrip (the hand is invisible). 
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
 	***Final Form***. Starting at character level 3, you can transform as a Bonus Action and gain the benefits below. The transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can’t do so again until you finish a Long Rest.
 	**Energy Reversal**. You can use your Psionic Deflection trait on attacks regardless of damage type.

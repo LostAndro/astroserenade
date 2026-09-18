@@ -13,4 +13,4 @@ You gain the following benefits.
 
 ***Technology Expert.*** You gain proficiency in the Technology skill. If you already have proficiency in it, you gain Expertise in it.
 
-***Vent Tape Repairs.*** You can cast the [[Mending\|Mending]] cantrip while holding Vent Tape. By expending an entire roll of Vent Tape, you can cast the [[Greater Mending\|Greater Mending]] spell once without a spell slot. Intelligence is your spellcasting ability for these spells. Once you cast Greater Mending in this way, you can’t do so again until you finish a Long Rest.
+***Vent Tape Repairs.*** You can cast the [[Spells/Cantrips Listed/Mending\|Mending]] cantrip while holding Vent Tape. By expending an entire roll of Vent Tape, you can cast the [[Greater Mending\|Greater Mending]] spell once without a spell slot. Intelligence is your spellcasting ability for these spells. Once you cast Greater Mending in this way, you can’t do so again until you finish a Long Rest.

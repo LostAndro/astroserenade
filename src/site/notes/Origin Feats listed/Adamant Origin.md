@@ -11,4 +11,4 @@ You have absorbed the essence of your home’s stoney nature or world soul, gain
 
 ***Solid Foundation.*** You have Advantage on saving throws against being moved against your will and against the Prone condition.
 
-***Stone’s Toughness.*** You know the [[Deflection\|Deflection]] cantrip and you don’t require spell components for it. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (chosen when you select this feat).
+***Stone’s Toughness.*** You know the [[Spells/Cantrips Listed/Deflection\|Deflection]] cantrip and you don’t require spell components for it. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (chosen when you select this feat).

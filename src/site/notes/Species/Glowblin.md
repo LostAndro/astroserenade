@@ -14,7 +14,7 @@ Glowblins have colorful skin, hair, and luminous eyes that change to match their
 **Speed**: 30 feet
 
 As an Glowblin, you have these special traits
-	***Dazzle***. You know the [[Dancing Lights\|Dancing Lights]] cantrip. Additionally, starting at character level 3, you always have [[Color Spray\|Color Spray]] prepared, and starting at character level 5, you always have [[Calm Emotions\|Calm Emotions]] prepared. You can cast each spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest. You can also cast them using spell slots you have of the appropriate level.
+	***Dazzle***. You know the [[Spells/Cantrips Listed/Dancing Lights\|Dancing Lights]] cantrip. Additionally, starting at character level 3, you always have [[Color Spray\|Color Spray]] prepared, and starting at character level 5, you always have [[Calm Emotions\|Calm Emotions]] prepared. You can cast each spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest. You can also cast them using spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells (choose the ability when you select this species).
 	***Emotional Spectrum***. Choose one of the options below; when you finish a Long Rest, you can choose a new option. Your chosen option can change your skin, hair, or eye color.
 	As a Bonus Action, for the next minute, you shed Bright Light in a 10-foot Emanation originating from you and Dim Light for an additional 10 feet. You infuse the light with your chosen color and emotion to provide its benefit, and you can change your chosen color as part of the Bonus Action.

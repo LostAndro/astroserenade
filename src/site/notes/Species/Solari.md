@@ -15,7 +15,7 @@ Solari tend to be gracefully built, with especially long, pointed ears and float
 
 As a Solari, you have these special traits
 	***Enduring Passion***. When you or a creature you can see within 30 feet of you fails a D20 Test, you can take a Reaction to give the target Heroic Inspiration. The target can choose to use it on the triggering roll. Once you use this trait, you can’t use it again until you finish a Long Rest.
-	***Illuminate***. You know the [[Light\|Light]] cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
+	***Illuminate***. You know the [[Spells/Cantrips Listed/Light\|Light]] cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
 	***Lightbringer’s Glare***. As a Bonus Action, you can unleash a blaze of solar radiance. Each creature of your choice within a 15-foot Emanation originating from you takes Radiant damage equal to your Proficiency Bonus. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 	***Phoenix Rising***. Immediately after you succeed or fail on a Death Saving Throw, you can ignore the result and regain Hit Points equal to your level. You immediately rise to your feet and use Lightbringer’s Glare (no action required). You don’t expend a use of that trait, and the size of its Emanation increases to 30 feet for this use. Other creatures of your choice in that area regain Hit Points equal to your Proficiency Bonus. Once you use this trait, you can’t use it again until you finish a Long Rest.
 	***Solar Mettle***. You have Resistance to Radiant damage.

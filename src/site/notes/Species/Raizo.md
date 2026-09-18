@@ -15,7 +15,7 @@ Raizo are typically tall, solidly built, and often heavily muscled. A pair of ho
 
 As a Raizo, you have these special traits
 	***Fury of the Tempest***. You have proficiency in the Athletics, Intimidation, or Survival skill.
-	***Storm Magic***. You know the [[Shocking Grasp\|Shocking Grasp]] and [[Thunder Blast\|Thunder Blast]] cantrips, and Intelligence, Wisdom, or Charisma is your spellcasting ability for them (choose when you select this species). You can cast the spells as a Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+	***Storm Magic***. You know the [[Spells/Cantrips Listed/Shocking Grasp\|Shocking Grasp]] and [[Spells/Cantrips Listed/Thunder Blast\|Thunder Blast]] cantrips, and Intelligence, Wisdom, or Charisma is your spellcasting ability for them (choose when you select this species). You can cast the spells as a Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 	***Tempest Resistance***. You have Resistance to Lightning damage and Thunder damage.
 	***Wrathful Resilience***. If you fail a Strength or Constitution saving throw, you can expend a Hit Point Die to reroll the d20 and use the new roll.
 	***Unleash the Storm***. When you reach character level 3, you can your inner storm as a Bonus Action, using one of the options below (choose each time you use this trait). The storm lasts for 1 minute or until you end it (no action required). Once you take this Bonus Action, you can’t do so again until you finish a Long Rest.

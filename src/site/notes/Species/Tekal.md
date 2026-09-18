@@ -17,7 +17,7 @@ As a Tekal, you have these special traits
 	***Crystalline Resilience***. You have Resistance to Poison damage and Radiant damage. You also have Advantage on saving throws you make to avoid or end the Petrified condition or the Poisoned condition.
 	***Durable Construction***. You don’t gain Exhaustion levels from dehydration, malnutrition, or suffocation.
 	***Grounded Recharge***. If you are in contact with the bare ground of a planet with a world soul, you don’t need to sleep, and you can finish a Long Rest in 4 hours if you spend those hours in a motionless, inactive state.
-	***Harmony Flux***. The essence of Harmony fills you. You know the [[Culling\|Culling]] and [[Druidcraft\|Druidcraft]] cantrips.
+	***Harmony Flux***. The essence of Harmony fills you. You know the [[Spells/Cantrips Listed/Culling\|Culling]] and [[Druidcraft\|Druidcraft]] cantrips.
 	Additionally, starting at character level 3, you can cast the following spells without a spell slot: [[Cure Wounds\|Cure Wounds]] or [[Ray of Sickness\|Ray of Sickness]]. Once you cast one of these spells, you can’t cast either of them in this way again until you finish a Long Rest.
 	Starting at character level 5, you can cast the following spells without a spell slot: [[Blindness/Deafness\|Blindness/Deafness]] or [[Lesser Restoration\|Lesser Restoration]]. Once you cast one of these spells, you can’t cast either of them again in this way until you finish a Long Rest.
 	You always have these spells prepared, and you can also cast them using any spell slots you have of the appropriate level.

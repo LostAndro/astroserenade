@@ -16,7 +16,7 @@ As an Harvestborn, you have these special traits.
 	***Culling***. When you damage a Bloodied creature, you can deal an extra 1d12 Necrotic damage to it. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 	***Gift of the Green***. As a Bonus Action, you can touch the ground and choose a creature also touching the ground within 30 feet of yourself. That creature can expend and roll one Hit Point Die, and it regains a number of Hit Points equal to the number rolled plus your Proficiency Bonus.
 	You can use this trait a number of times equal to your Proficiency Bonus. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
-	***Jack-O-Lantern***. You know the [[Dancing Lights\|Dancing Lights]] cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
+	***Jack-O-Lantern***. You know the [[Spells/Cantrips Listed/Dancing Lights\|Dancing Lights]] cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
 	***Scarecrow Nature***. You don’t require air, food, or drink.
 ### Species scene
 ![SCENE_Province_Enoch.jpeg](/img/user/images/SCENE_Province_Enoch.jpeg)

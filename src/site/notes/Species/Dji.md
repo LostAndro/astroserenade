@@ -56,7 +56,7 @@ As an Emotional Dji, you have these special traits.
 | Friction  | [[Friction\|Friction]]       | [[Spikeskin\|Spikeskin]]      | [[Spike Growth\|Spike Growth]]             |
 | Gravity   | [[Soften Descent\|Soften Descent]] | [[Repulsing Palm\|Repulsing Palm]] | [[Gravity Lapse\|Gravity Lapse]]            |
 | Magnetism | [[Magnetobolt\|Magnetobolt]]    | [[Magnetism\|Magnetism]]      | [[Arcanomagnetic Repulsion\|Arcanomagnetic Repulsion]] |
-| Time      | [[Guidance\|Guidance]]       | [[Doom Future\|Doom Future]]    | [[Protection\|Protection]]               |
+| Time      | [[Spells/Cantrips Listed/Guidance\|Guidance]]       | [[Doom Future\|Doom Future]]    | [[Protection\|Protection]]               |
 ### Emotional Aspects
 
 | Aspect  | Level 3                     | Level 5             |
@@ -69,7 +69,7 @@ As an Emotional Dji, you have these special traits.
 
 | Aspect | Damage Type | Level 1            | Level 3              | Level 5           |
 | ------ | ----------- | ------------------ | -------------------- | ----------------- |
-| Air    | Lightning   | [[Shocking Grasp\|Shocking Grasp]] | [[Longstrider\|Longstrider]]      | [[Gust of Wind\|Gust of Wind]]  |
+| Air    | Lightning   | [[Spells/Cantrips Listed/Shocking Grasp\|Shocking Grasp]] | [[Longstrider\|Longstrider]]      | [[Gust of Wind\|Gust of Wind]]  |
 | Earth  | Acid        | [[Earthen Fist\|Earthen Fist]]   | [[Earthen Uppercut\|Earthen Uppercut]] | [[Snakebite\|Snakebite]]     |
-| Fire   | Fire        | [[Fire Bolt\|Fire Bolt]]      | [[Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
-| Water  | Cold        | [[Ray of Frost\|Ray of Frost]]   | [[Ice Knife\|Ice Knife]]        | [[Freezing Fog\|Freezing Fog]]  |
+| Fire   | Fire        | [[Spells/Cantrips Listed/Fire Bolt\|Fire Bolt]]      | [[Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
+| Water  | Cold        | [[Spells/Cantrips Listed/Ray of Frost\|Ray of Frost]]   | [[Ice Knife\|Ice Knife]]        | [[Freezing Fog\|Freezing Fog]]  |
