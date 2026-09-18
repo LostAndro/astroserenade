@@ -11,7 +11,7 @@ You gain the following benefits.
 
 ***Ranged Weapon Proficiency.*** You gain proficiency with Ranged Martial weapons.
 
-***Cantrip.*** You learn the Finger Guns cantrip.
+***Cantrip.*** You learn the [[Spells/Cantrips Listed/Finger Guns\|Finger Guns]] cantrip.
 
 ***Expanded Spell List.*** The following spells are added to your spell list: [[Antiballistics Field\|Antiballistics Field]], [[Ballistic Smite\|Ballistic Smite]], [[Conjure Cannonball\|Conjure Cannonball]], [[Conjure Cover\|Conjure Cover]], [[Jam Weapon\|Jam Weapon]], [[Jethro’s Instant Reload\|Jethro’s Instant Reload]], and [[Perforating Shot\|Perforating Shot]].
 

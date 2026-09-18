@@ -14,6 +14,7 @@
 | [[Spells/Cantrips Listed/Bestial Roar\|Bestial Roar]]        | *Transmutation*        | Cryptist, Esper, Icon, Primalist                        | Action       | Self      | V          | Instantaneous       |
 | [[Spells/Cantrips Listed/Blood Bolt\|Blood Bolt]]          | *Necromancy*           | Cryptist, Esper, Gridrunner                             | Action       | 90 feet   | V, S       | Instantaneous       |
 | [[Spells/Cantrips Listed/Brittle Bone Throw\|Brittle Bone Throw]]  | *Conjuration*          | Cryptist, Esper, Gridrunner                             | Action       | 60 feet   | V, S, M    | Instantaneous       |
+| [[Spells/Cantrips Listed/Calling Card\|Calling Card]]        | *Illusion*             | Cryptist, Esper, Gridrunner, Icon, Machinist            | Action       | Touch     | S, M       | Until dispelled     |
 | [[Spells/Cantrips Listed/Cat's Spring\|Cat's Spring]]        | *Conjuration*          | Cryptist, Esper, Gridrunner, Icon, Machinist, Primalist | Action       | Self      | V, S       | Instantaneous       |
 | [[Spells/Cantrips Listed/Chant of Thoth\|Chant of Thoth]]      | *Divination*           | Cryptist, Esper, Gridrunner, Icon, Machinist            | 1 minute     | Self      | V          | 8 hours             |
 | [[Spells/Cantrips Listed/Cheat\|Cheat]]               | *Divination*           | Cryptist, Esper, Gridrunner, Icon                       | Bonus Action | Self      | S, M       | Instantaneous       |
@@ -43,10 +44,14 @@
 | [[Spells/Cantrips Listed/Finger Guns\|Finger Guns]]         | *Evocation*            | Esper, Gridrunner, Icon, Machinist                      | Bonus Action | Self      | V, S       | 1 minute            |
 | [[Spells/Cantrips Listed/Fire Bolt\|Fire Bolt]]           | *Evocation*            | Esper, Gridrunner, Machinist                            | Action       | 120 feet  | V, S       | Instantaneous       |
 | [[Spells/Cantrips Listed/Friction\|Friction]]            | *Abjuration*           | Esper, Icon, Primalist                                  | Reaction*    | 5 feet    | S          | Instantaneous       |
+| [[Spells/Cantrips Listed/Frightful Start\|Frightful Start]]     | *Illusion*             | Cryptist, Esper, Gridrunner, Icon                       | Action       | 30 feet   | V, S, M    | 1 round             |
 | [[Spells/Cantrips Listed/Gravity Spike\|Gravity Spike]]       | *Transmutation*        | Cryptist, Esper, Gridrunner, Primalist                  | Action       | 60 feet   | V, S       | Instantaneous       |
 | [[Spells/Cantrips Listed/Gravity Whip\|Gravity Whip]]        | *Evocation*            | Cryptist, Esper, Gridrunner, Machinist                  | Action       | 10 feet   | V, S       | Instantaneous       |
 | [[Spells/Cantrips Listed/Guidance\|Guidance]]            | *Divination*           | Oracle, Primalist                                       | Action       | Touch     | V, S       | _C_, up to 1 minute |
 | [[Spells/Cantrips Listed/Hardlight Object\|Hardlight Object]]    | *Conjuration*          | Esper, Gridrunner, Machinist                            | Action       | Self      | V, S, M    | 1 hour              |
+| [[Spells/Cantrips Listed/Holy Word\|Holy Word]]           | *Evocation*            | Oracle                                                  | Action       | 60 feet   | V, S       | Instantaneous       |
+| [[Spells/Cantrips Listed/Hunter Sense\|Hunter Sense]]        | *Divination*           | Primalist                                               | Action       | Touch     | V, S       | _C_, up to 1 minute |
+| [[Spells/Cantrips Listed/Illusory Instrument\|Illusory Instrument]] | *Illusion*             | Cryptist, Icon, Machinist                               | Action       | Touch     | V, S       | 10 minutes          |
 | [[Spells/Cantrips Listed/Kinetic Propulsion\|Kinetic Propulsion]]  | *Evocation*            | Esper, Gridrunner, Machinist                            | Action       | 30 feet   | V, S       | Instantaneous       |
 | [[Spells/Cantrips Listed/Light\|Light]]               | *Evocation*            | Esper, Gridrunner, Icon, Machinist, Oracle, Primalist   | Action       | Touch     | V, M       | Instantaneous       |
 | [[Spells/Cantrips Listed/Mage Hand\|Mage Hand]]           | *Conjuration*          | Esper, Gridrunner, Icon, Machinist, Oracle, Primalist   | Action       | 30 feet   | V, S       | 1 minute            |
@@ -57,6 +62,7 @@
 | [[Spells/Cantrips Listed/Moment to Think\|Moment to Think]]     | *Transmutation* (_CH_) | Esper, Gridrunner, Machinist                            | Bonus Action | Self      | V          | Instantaneous       |
 | [[Spells/Cantrips Listed/Mysterious Presence\|Mysterious Presence]] | *Illusion*             | Esper, Icon, Primalist                                  | Action       | Touch     | V, S       | _C_, up to 1 minute |
 | [[Spells/Cantrips Listed/Poison Spray\|Poison Spray]]        | *Necromancy*           | Cryptist, Esper, Gridrunner, Machinist, Primalist       | Action       | 30 feet   | V, S       | Instantaneous       |
+| [[Spells/Cantrips Listed/Preserve\|Preserve]]            | *Transmutation*        | Cryptist, Esper, Gridrunner, Icon, Machinist, Oracle    | Action       | Touch     | V, S, M    | 12 hours            |
 | [[Spells/Cantrips Listed/Prestidigitation\|Prestidigitation]]    | *Transmutation*        | Cryptist, Esper, Gridrunner, Icon, Machinist            | Action       | 10 feet   | V, S       | Up to 1 hour        |
 | [[Spells/Cantrips Listed/Produce Flame\|Produce Flame]]       | *Conjuration*          | Primalist                                               | Bonus Action | Self      | V, S       | 10 minutes          |
 | [[Spells/Cantrips Listed/Psychic Needle\|Psychic Needle]]      | *Enchantment*          | Cryptist, Esper, Gridrunner                             | Action       | 60 feet   | V          | 1 round             |
