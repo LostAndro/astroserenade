@@ -19,7 +19,7 @@ As a Skettik, you have these special traits
 	***Canopy Climber***. You have a Climb Speed equal to your Speed.
 	***Channeled Necrosis***. When you deal damage, you can change the damage type to Necrotic.
 	***Necromantic Curse***. You know the [[Spells/Cantrips Listed/Culling\|Culling]] cantrip.
-	Additionally, starting at character level 3, you always have the [[Inflict Wounds\|Inflict Wounds]] spell prepared, and at character level 5, you always have the [[Construct Companion\|Construct Companion]] (the Construct is made of bone) spell prepared. You can cast each spell once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have of the appropriate level.
+	Additionally, starting at character level 3, you always have the [[Spells/Level 1 spells listed/Inflict Wounds\|Inflict Wounds]] spell prepared, and at character level 5, you always have the [[Construct Companion\|Construct Companion]] (the Construct is made of bone) spell prepared. You can cast each spell once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose ability when you select this species).
 	***Rotproof***. You have Resistance to Necrotic damage.
 

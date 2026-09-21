@@ -18,7 +18,7 @@ Once you use this benefit, you can't do so again until you finish a Long Rest. Y
 
 | Spell Slot Level | Spell                    |
 | ---------------- | ------------------------ |
-| 1                | [[Detect Evil and Good\|Detect Evil and Good]] |
+| 1                | [[Spells/Level 1 spells listed/Detect Evil and Good\|Detect Evil and Good]] |
 | 2                | [[Mind Spike\|Mind Spike]]           |
 | 3                | [[Clairvoyance\|Clairvoyance]]         |
 | 4                | [[Divination\|Divination]]           |

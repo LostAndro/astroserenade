@@ -11,4 +11,4 @@ You have absorbed the essence of your home’s corrupted nature or world soul, g
 
 ***Damage Resistance.*** You have Resistance to the damage type that corresponds to your homeworld: Acid (Thrill), Cold (Entropy), or Lightning (Progress), or Psychic (Thrill).
 
-***Cacophony’s Curse.*** You can cast the [[Bane\|Bane]] spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest. You can also cast it using any spell slots you have. Intelligence, Widsom, or Charisma is your spellcasting ability for it (chosen when you select this feat).
+***Cacophony’s Curse.*** You can cast the [[Spells/Level 1 spells listed/Bane\|Bane]] spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest. You can also cast it using any spell slots you have. Intelligence, Widsom, or Charisma is your spellcasting ability for it (chosen when you select this feat).

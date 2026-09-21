@@ -14,7 +14,7 @@ Flambego possess the traits of all manner of tropical birds, sporting vibrant, c
 **Speed**: 30 feet
 
 As an Flambego, you have these special traits
-	***Celebrant’s Revelry***. You know the [[Spells/Cantrips Listed/Befriend\|Befriend]] cantrip. Additionally, starting at character level 3 you always have the [[Heroism\|Heroism]] spell prepared, and when you reach character level 5, you always have the [[Lesser Restoration\|Lesser Restoration]] spell prepared. You can cast each spell once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have of the appropriate level.
+	***Celebrant’s Revelry***. You know the [[Spells/Cantrips Listed/Befriend\|Befriend]] cantrip. Additionally, starting at character level 3 you always have the [[Spells/Level 1 spells listed/Heroism\|Heroism]] spell prepared, and when you reach character level 5, you always have the [[Lesser Restoration\|Lesser Restoration]] spell prepared. You can cast each spell once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose when you select this species).
 	***Chill Under Pressure***. You have Advantage on saving throws you make to avoid or end the Charmed or Frightened condition. 
 	***Festive Flourish***. Your jubilant nature manifests in flamboyant ways. When you finish a Long Rest, choose one of the following manifestations, which lasts until you finish your next Long Rest:

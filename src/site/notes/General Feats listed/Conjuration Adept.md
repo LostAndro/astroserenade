@@ -17,7 +17,7 @@ You gain the following benefits.
 
 | Spell Slot Level | Spell                 |
 | ---------------- | --------------------- |
-| 1                | [[Entangle\|Entangle]]          |
+| 1                | [[Spells/Level 1 spells listed/Entangle\|Entangle]]          |
 | 2                | [[Misty Step\|Misty Step]]        |
 | 3                | [[Conjure Animals\|Conjure Animals]]   |
 | 4                | [[Dimension Door\|Dimension Door]]    |

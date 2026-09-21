@@ -17,7 +17,7 @@ You gain the following benefits.
 
 | Spell Slot Level | Spell                   |
 | ---------------- | ----------------------- |
-| 1                | [[Inflict Wounds\|Inflict Wounds]]      |
+| 1                | [[Spells/Level 1 spells listed/Inflict Wounds\|Inflict Wounds]]      |
 | 2                | [[Ray of Enfeeblement\|Ray of Enfeeblement]] |
 | 3                | [[Vampiric Touch\|Vampiric Touch]]      |
 | 4                | [[Blight\|Blight]]              |

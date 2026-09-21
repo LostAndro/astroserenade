@@ -1,0 +1,90 @@
+---
+{"dg-publish":true,"permalink":"/spells/level-1-spells-listed/1st-level-spells/","dg-note-properties":{}}
+---
+
+#### [[Spells\|Spells]]
+# Level 1 Spells
+
+
+| Name                              | School          | Spell lists                                                     | Casting Time       | Range    | Components  | Duration              |
+| --------------------------------- | --------------- | --------------------------------------------------------------- | ------------------ | -------- | ----------- | --------------------- |
+|                                   |                 |                                                                 |                    |          |             |                       |
+|                                   |                 |                                                                 |                    |          |             |                       |
+|                                   |                 |                                                                 |                    |          |             |                       |
+| [[Spells/Level 1 spells listed/Accelerate Fall\|Accelerate Fall]]               | *Transmutation* | Esper, Gridrunner, Machinist                                    | Reaction*          | 60 feet  | V, S        | 1 minute              |
+| [[Spells/Level 1 spells listed/Alarm\|Alarm]]                         | *Abjuration*    | Gridrunner, Machinist, Tracer                                   | 1 minute or Ritual | 30 feet  | V, S, M     | 8 hours               |
+| [[Spells/Level 1 spells listed/Animal Friendship\|Animal Friendship]]             | *Enchantment*   | Icon, Primalist, Tracer                                         | Action             | 30 feet  | V, S, M     | 24 hours              |
+| [[Spells/Level 1 spells listed/Armor of Secrets\|Armor of Secrets]]              | *Abjuration*    | Cryptist                                                        | Bonus Action       | Self     | V, S, M     | 1 hour                |
+| [[Spells/Level 1 spells listed/Autonomous Assistant\|Autonomous Assistant]]          | *Conjuration*   | Gridrunner                                                      | 1 hour or Ritual   | 10 feet  | V, S, M(C*) | Instantaneous         |
+| [[Spells/Level 1 spells listed/Bane\|Bane]]                          | *Enchantment*   | Cryptist, Icon, Oracle                                          | Action             | 30 feet  | V, S, M     | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Bless\|Bless]]                         | *Enchantment*   | Oracle                                                          | Action             | 30 feet  | V, S, M     | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Burning Hands\|Burning Hands]]                 | *Evocation*     | Esper, Gridrunner, Mechanist                                    | Action             | Self     | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Buzzing Bee\|Buzzing Bee]]                   | *Conjuration*   | Esper, Gridrunner, Primalist, Tracer                            | Action             | 120 feet | V, S, M     | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Charm Person\|Charm Person]]                  | *Enchantment*   | Cryptist, Esper, Gridrunner, Icon, Primalist                    | Action             | 30 feet  | V, S        | 1 hour                |
+| [[Spells/Level 1 spells listed/Chromatic Orb\|Chromatic Orb]]                 | *Evocation*     | Esper, Gridrunner, Mechanist                                    | Action             | 90 feet  | V, S, M(C)  | Instantaneous         |
+| [[Spells/Level 1 spells listed/Color Spray\|Color Spray]]                   | *Illusion*      | Esper, Gridrunner, Icon                                         | Action             | Self     | V, S, M     | Instantaneous         |
+| [[Spells/Level 1 spells listed/Command\|Command]]                       | *Enchantment*   | Enforcer, Icon, Oracle                                          | Action             | 60 feet  | V           | Instantaneous         |
+| [[Spells/Level 1 spells listed/Comprehend Languages\|Comprehend Languages]]          | *Divination*    | Cryptist, Esper, Gridrunner, Icon                               | Action or Ritual   | Self     | V, S, M     | 1 hour                |
+| [[Spells/Level 1 spells listed/Cosmic Favor\|Cosmic Favor]]                  | *Transmutation* | Enforcer                                                        | Bonus Action       | Self     | V, S        | 1 minute              |
+| [[Spells/Level 1 spells listed/Cosmic Smite\|Cosmic Smite]]                  | *Evocation*     | Enforcer                                                        | Bonus Action*      | Self     | V           | Instantaneous         |
+| [[Spells/Level 1 spells listed/Create or Destroy Water\|Create or Destroy Water]]       | *Transmutation* | Oracle, Primalist                                               | Action             | 30 feet  | V, S, M     | Instantaneous         |
+| [[Spells/Level 1 spells listed/Cure Wounds\|Cure Wounds]]                   | *Abjuration*    | Enforcer, Icon, Machinist, Oracle, Primalist, Tracer            | Action             | Touch    | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Detect Evil and Good\|Detect Evil and Good]]          | *Divination*    | Enforcer, Oracle                                                | Action             | Self     | V, S        | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Detect Magic\|Detect Magic]]                  | *Divination*    | Cryptist, Esper, Gridrunner, Icon, Machinist, Oracle, Primalist | Action or Ritual   | Self     | V, S        | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Detect Poison and Disease\|Detect Poison and Disease]]     | *Divination*    | Enforcer, Oracle, Primalist, Tracer                             | Action or Ritual   | Self     | V, S, M     | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Disguise Self\|Disguise Self]]                 | *Illusion*      | Esper, Gridrunner, Icon, Machinist                              | Action             | Self     | V, S        | 1 hour                |
+| [[Spells/Level 1 spells listed/Dissonant Whispers\|Dissonant Whispers]]            | *Enchantment*   | Esper, Icon                                                     | Action             | 60 feet  | V           | Instantaneous         |
+| [[Spells/Level 1 spells listed/Ensnaring Strike\|Ensnaring Strike]]              | *Conjuration*   | Tracer                                                          | Bonus Action*      | Self     | V           | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Entangle\|Entangle]]                      | *Conjuration*   | Primalist, Tracer                                               | Action             | 90 feet  | V, S        | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Expeditious Retreat\|Expeditious Retreat]]           | *Transmutation* | Cryptist, Esper, Gridrunner, Machinist                          | Bonus Action       | Self     | V, S        | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Faerie Fire\|Faerie Fire]]                   | *Evocation*     | Icon, Machinist, Primalist                                      | Action             | 60 feet  | V           | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/False Life\|False Life]]                    | *Necromancy*    | Esper, Gridrunner, Machinist                                    | Action             | Self     | V, S, M     | Instantaneous         |
+| [[Spells/Level 1 spells listed/Feather Fall\|Feather Fall]]                  | *Transmutation* | Esper, Gridrunner, Icon, Machinist                              | Reaction*          | 60 feet  | V, M        | 1 minute              |
+| [[Spells/Level 1 spells listed/Feign Interest\|Feign Interest]]                | *Illusion*      | Gridrunner                                                      | Action             | Self     | V           | 1 hour                |
+| [[Spells/Level 1 spells listed/Find Familiar\|Find Familiar]]                 | *Conjuration*   | Gridrunner                                                      | 1 hour or Ritual   | 10 feet  | V, S, M(C*) | Instantaneous         |
+| [[Spells/Level 1 spells listed/Floating Disk\|Floating Disk]]                 | *Conjuration*   | Gridrunner                                                      | Action or Ritual   | 30 feet  | V, S, M     | 1 hour                |
+| [[Spells/Level 1 spells listed/Fog Cloud\|Fog Cloud]]                     | *Conjuration*   | Esper, Gridrunner, Primalist, Tracer                            | Action             | 120 feet | V, S        | _C_, up to 1 hour     |
+| [[Spells/Level 1 spells listed/Goodberry\|Goodberry]]                     | *Conjuration*   | Primalist, Tracer                                               | Action             | Self     | V, S, M     | 24 hours              |
+| [[Spells/Level 1 spells listed/Grease\|Grease]]                        | *Conjuration*   | Esper, Gridrunner, Machinist                                    | Action             | 60 feet  | V, S, M     | 1 minute              |
+| [[Spells/Level 1 spells listed/Guiding Bolt\|Guiding Bolt]]                  | *Evocation*     | Oracle                                                          | Action             | 120 feet | V, S        | 1 round               |
+| [[Spells/Level 1 spells listed/Healing Word\|Healing Word]]                  | *Abjuration*    | Icon, Oracle, Primalist                                         | Bonus Action       | 60 feet  | V           | Instantaneous         |
+| [[Spells/Level 1 spells listed/Hellish Rebuke\|Hellish Rebuke]]                | *Evocation*     | Cryptist                                                        | Reaction*          | 60 feet  | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Heroism\|Heroism]]                       | *Enchantment*   | Enforcer, Icon                                                  | Action             | Touch    | V, S        | _C_, up to 1 hour     |
+| [[Spells/Level 1 spells listed/Hex\|Hex]]                           | *Enchantment*   | Cryptist                                                        | Bonus Action       | 90 feet  | V, S, M     | _C_, up to 1 hour     |
+| [[Spells/Level 1 spells listed/Hideous Laughter\|Hideous Laughter]]              | *Enchantment*   | Cryptist, Gridrunner, Icon                                      | Action             | 30 feet  | V, S, M     | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Hunter's Mark\|Hunter's Mark]]                 | *Divination*    | Tracer                                                          | Bonus Action       | 90 feet  | V           | _C_, up to 1 hour     |
+| [[Spells/Level 1 spells listed/Ice Knife\|Ice Knife]]                     | *Conjuration*   | Esper, Gridrunner, Primalist                                    | Action             | 60 feet  | S, M        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Identify\|Identify]]                      | *Divination*    | Gridrunner, Icon, Machinist                                     | 1 minute or Ritual | Touch    | V, S, M(C)  | Instantaneous         |
+| [[Spells/Level 1 spells listed/Illusory Script\|Illusory Script]]               | *Illusion*      | Cryptist, Gridrunner, Icon                                      | 1 minute or Ritual | Touch    | S, M(C)     | 10 days               |
+| [[Spells/Level 1 spells listed/Inflict Wounds\|Inflict Wounds]]                | *Necromancy*    | Oracle                                                          | Action             | Touch    | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Insidious Rhythm\|Insidious Rhythm]]              | *Enchantment*   | Icon                                                            | Action             | 120 feet | V, S        | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Jump\|Jump]]                          | *Transmutation* | Esper, Gridrunner, Machinist, Primalist, Tracer                 | Bonus Action       | Touch    | V, S, M     | 1 minute              |
+| [[Spells/Level 1 spells listed/Longstrider\|Longstrider]]                   | *Transmutation* | Gridrunner, Icon, Machinist, Primalist, Tracer                  | Action             | Touch    | V, S, M     | 1 hour                |
+| [[Spells/Level 1 spells listed/Mage Armor\|Mage Armor]]                    | *Abjuration*    | Esper, Gridrunner                                               | Action             | Touch    | V, S, M     | 8 hours               |
+| [[Spells/Level 1 spells listed/Magic Missile\|Magic Missile]]                 | *Evocation*     | Esper, Gridrunner                                               | Action             | 120 feet | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Protection from Evil and Good\|Protection from Evil and Good]] | *Abjuration*    | Cryptist, Enforcer, Gridrunner, Oracle, Primalist               | Action             | Touch    | V, S, M     | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Purify Food and Drink\|Purify Food and Drink]]         | *Transmutation* | Enforcer, Machinist, Oracle, Primalist                          | Action or Ritual   | 10 feet  | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Quick Clothier\|Quick Clothier]]                | *Transmutation* | Gridrunner, Icon, Machinist                                     | Action             | Touch    | V, S, M     | 24 hours              |
+| [[Spells/Level 1 spells listed/Ray of Sickness\|Ray of Sickness]]               | *Necromancy *   | Esper, Gridrunner                                               | Action             | 60 feet  | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Sanctuary\|Sanctuary]]                     | *Abjuration*    | Machinist, Oracle                                               | Bonus Action       | 30 feet  | V, S, M     | 1 minute              |
+| [[Spells/Level 1 spells listed/Searing Smite\|Searing Smite]]                 | *Evocation*     | Enforcer                                                        | Bonus Action*      | Self     | V           | 1 minute              |
+| [[Spells/Level 1 spells listed/Shield\|Shield]]                        | *Abjuration*    | Esper, Gridrunner                                               | Reaction*          | Self     | V, S        | 1 round               |
+| [[Spells/Level 1 spells listed/Shield of Faith\|Shield of Faith]]               | *Abjuration*    | Enforcer, Oracle                                                | Bonus Action       | 60 feet  | V, S, M     | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Silent Image\|Silent Image]]                  | *Illusion*      | Esper, Gridrunner, Icon                                         | Action             | 60 feet  | V, S, M     | _C_, up to 10 minutes |
+| [[Spells/Level 1 spells listed/Sleep\|Sleep]]                         | *Enchantment*   | Esper, Gridrunner, Icon                                         | Action             | 60 feet  | V, S, M     | _C_, up to 1 minute   |
+| [[Spells/Level 1 spells listed/Speak with Animals\|Speak with Animals]]            | *Divination*    | Cryptist, Icon, Primalist                                       | Action or Ritual   | Self     | V, S        | 10 minutes            |
+| [[Spells/Level 1 spells listed/Spellfire Flare\|Spellfire Flare]]               | *Evocation*     | Esper, Gridrunner                                               | Action             | 60 feet  | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Thunderwave\|Thunderwave]]                   | *Evocation*     | Esper, Gridrunner, Icon, Primalist                              | Action             | Self     | V, S        | Instantaneous         |
+| [[Spells/Level 1 spells listed/Unseen Servant\|Unseen Servant]]                | *Conjuration*   | Cryptist, Gridrunner, Icon                                      | Action or Ritual   | 60 feet  | V, S, M     | 1 hour                |
+| [[Spells/Level 1 spells listed/Wardaway\|Wardaway]]                      | *Abjuration*    | Enforcer, Gridrunner, Icon, Oracle                              | Action             | 60 feet  | V, S, M     | Instantaneous         |
+
+
+
+
+
+_CH_ - Chronomancy  
+_S_ - Sangromancy  
+_SP_ - Spellhack  
+_C_ - Concentration  
+(C) - Expensive Component  
+(C*) - Expensive Component Consumed

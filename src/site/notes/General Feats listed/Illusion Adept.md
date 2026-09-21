@@ -18,7 +18,7 @@ Additionally, creatures have Disadvantage on Intelligence (Investigation) checks
 
 | Spell Slot Level | Spell                     |
 | ---------------- | ------------------------- |
-| 1                | [[Silent Image\|Silent Image]]          |
+| 1                | [[Spells/Level 1 spells listed/Silent Image\|Silent Image]]          |
 | 2                | [[Phantasmal Force\|Phantasmal Force]]      |
 | 3                | [[Major Image\|Major Image]]           |
 | 4                | [[Hallucinatory Terrain\|Hallucinatory Terrain]] |

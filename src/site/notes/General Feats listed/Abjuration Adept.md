@@ -17,7 +17,7 @@ You gain the following benefits.
 
 | Spell Slot Level | Spell                      |
 | ---------------- | -------------------------- |
-| 1                | [[Shield\|Shield]]                 |
+| 1                | [[Spells/Level 1 spells listed/Shield\|Shield]]                 |
 | 2                | [[Lesser Restoration\|Lesser Restoration]]     |
 | 3                | [[Protection from Energy\|Protection from Energy]] |
 | 4                | [[Banishment\|Banishment]]             |

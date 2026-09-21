@@ -14,7 +14,7 @@ Zephursa are little humanoid bears with colorful fur, often with pastel hues alt
 **Speed**: 30 feet
 
 As a Zephursa, you have these special traits
-	***Children of the Skies***. You know the [[Spells/Cantrips Listed/Befriend\|Befriend]] cantrip. Additionally, starting at character level 3, you always have the [[Fog Cloud\|Fog Cloud]] spell prepared, and starting at character level 5, you always have the [[Gust of Wind\|Gust of Wind]] spell prepared. You can cast each one once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have of the appropriate level.
+	***Children of the Skies***. You know the [[Spells/Cantrips Listed/Befriend\|Befriend]] cantrip. Additionally, starting at character level 3, you always have the [[Spells/Level 1 spells listed/Fog Cloud\|Fog Cloud]] spell prepared, and starting at character level 5, you always have the [[Gust of Wind\|Gust of Wind]] spell prepared. You can cast each one once without a spell slot, and you regain the ability to cast them in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
 	***Cloud Puff***. As a Bonus Action, you can puff up with swirling cloud stuff and gain a Fly Speed equal to half your Speed for 1 minute.
 	When you are hit by an attack roll during this time, you can take a Reaction to subtract 1d4 from the total, possibly causing it to miss.

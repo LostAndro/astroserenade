@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/spells/level-1-spells-listed/comprehend-languages/","dg-note-properties":{}}
+---
+
+# Comprehend Languages
+Source: Player's Handbook
+_Level 1 Divination (Cryptist, Esper, Gridrunner, Icon)_
+
+**Casting Time:** Action or Ritual  
+**Range:** Self  
+**Components:** V, S, M (a pinch of soot and salt)  
+**Duration:** 1 hour
+
+For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.

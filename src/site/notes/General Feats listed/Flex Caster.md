@@ -9,6 +9,6 @@ Source: Dark Matter Revised
 
 You gain the following benefits.
 
-***Upcast.*** When you cast a spell, such as [[Magic Missile\|Magic Missile]], that can be cast with a higher-level spell slot, you can expend an additional spell slot to increase the spell’s effective level by 1.
+***Upcast.*** When you cast a spell, such as [[Spells/Level 1 spells listed/Magic Missile\|Magic Missile]], that can be cast with a higher-level spell slot, you can expend an additional spell slot to increase the spell’s effective level by 1.
 
 ***Downcast.*** When you cast a spell using a higher-level spell slot, you choose to recycle the excess magical energy instead of improving the spell. The spell is cast at its base level and you regain an expended level 1 spell slot.

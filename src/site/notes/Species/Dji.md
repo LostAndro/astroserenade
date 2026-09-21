@@ -69,7 +69,7 @@ As an Emotional Dji, you have these special traits.
 
 | Aspect | Damage Type | Level 1            | Level 3              | Level 5           |
 | ------ | ----------- | ------------------ | -------------------- | ----------------- |
-| Air    | Lightning   | [[Spells/Cantrips Listed/Shocking Grasp\|Shocking Grasp]] | [[Longstrider\|Longstrider]]      | [[Gust of Wind\|Gust of Wind]]  |
+| Air    | Lightning   | [[Spells/Cantrips Listed/Shocking Grasp\|Shocking Grasp]] | [[Spells/Level 1 spells listed/Longstrider\|Longstrider]]      | [[Gust of Wind\|Gust of Wind]]  |
 | Earth  | Acid        | [[Spells/Cantrips Listed/Earthen Fist\|Earthen Fist]]   | [[Earthen Uppercut\|Earthen Uppercut]] | [[Snakebite\|Snakebite]]     |
-| Fire   | Fire        | [[Spells/Cantrips Listed/Fire Bolt\|Fire Bolt]]      | [[Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
-| Water  | Cold        | [[Spells/Cantrips Listed/Ray of Frost\|Ray of Frost]]   | [[Ice Knife\|Ice Knife]]        | [[Freezing Fog\|Freezing Fog]]  |
+| Fire   | Fire        | [[Spells/Cantrips Listed/Fire Bolt\|Fire Bolt]]      | [[Spells/Level 1 spells listed/Burning Hands\|Burning Hands]]    | [[Scorching Ray\|Scorching Ray]] |
+| Water  | Cold        | [[Spells/Cantrips Listed/Ray of Frost\|Ray of Frost]]   | [[Spells/Level 1 spells listed/Ice Knife\|Ice Knife]]        | [[Freezing Fog\|Freezing Fog]]  |

@@ -17,7 +17,7 @@ You gain the following benefits.
 
 | Spell Slot Level | Spell                |
 | ---------------- | -------------------- |
-| 1                | [[Chromatic Orb\|Chromatic Orb]]    |
+| 1                | [[Spells/Level 1 spells listed/Chromatic Orb\|Chromatic Orb]]    |
 | 2                | [[Shatter\|Shatter]]          |
 | 3                | [[Fireball\|Fireball]]         |
 | 4                | [[Vitriolic Sphere\|Vitriolic Sphere]] |

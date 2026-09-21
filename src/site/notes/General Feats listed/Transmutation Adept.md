@@ -17,7 +17,7 @@ You gain the following benefits.
 
 | Spell Slot Level | Spell               |
 | ---------------- | ------------------- |
-| 1                | [[Jump\|Jump]]            |
+| 1                | [[Spells/Level 1 spells listed/Jump\|Jump]]            |
 | 2                | [[Spider Climb\|Spider Climb]]    |
 | 3                | [[Slow\|Slow]]            |
 | 4                | [[Polymorph\|Polymorph]]       |

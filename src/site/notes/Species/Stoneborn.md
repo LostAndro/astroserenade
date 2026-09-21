@@ -15,7 +15,7 @@ Their stony skin matches the same hue and pattern as the stone they were carved 
 
 As a Stoneborn, you have these special traits.
 	***Argent Gleam***. As a Bonus Action, you can channel a mote of the Silver Path's light with your choice of one of the following options:
-	**Path’s Grace**. You cast the [[Bless\|Bless]] spell, requiring no Material components.
+	**Path’s Grace**. You cast the [[Spells/Level 1 spells listed/Bless\|Bless]] spell, requiring no Material components.
 	**Zealous Charge**. You take the Dash action. The first time you make an attack roll before the end of your turn, on a hit or miss, the target takes an extra 2d6 Radiant damage.
 	Once you use this trait’s Bonus Action, you can’t do so again until you finish a Long Rest.
 	***Silver Bulwark***. You can call upon the Silver Path to protect you. When you take Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to gain Resistance to those three damage types until the start of your next turn. Once you use this trait, you can’t do so again until you finish a Short or Long Rest.

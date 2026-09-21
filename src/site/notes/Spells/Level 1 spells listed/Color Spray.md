@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/spells/level-1-spells-listed/color-spray/","dg-note-properties":{}}
+---
+
+# Color Spray
+Source: Player's Handbook
+_Level 1 Illusion (Esper, Gridrunner, Icon)_
+
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S, M (a pinch of colorful sand)  
+**Duration:** Instantaneous
+
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.

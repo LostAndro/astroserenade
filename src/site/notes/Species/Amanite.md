@@ -18,7 +18,7 @@ As an Amanite, you have these special traits
 	***Fungal Resistance***. You have Resistance to Acid damage and Poison damage.
 	***Mycelium Senses***. You have proficiency in the Perception, Stealth, or Survival skill.
 	***Spore Casting***. You can use any mushroom as a Spellcasting Focus, and you know the[[ Acid Splash\| Acid Splash]] cantrip.
-	Additionally, starting at character level 3, you always have the [[Jump\|Jump]] spell prepared, and starting at character level 5, you always have the [[Enlarge/Reduce\|Enlarge/Reduce]] spell prepared. You can cast each spell once without a spell slot, and you regain the ability to cast each spell in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
+	Additionally, starting at character level 3, you always have the [[Spells/Level 1 spells listed/Jump\|Jump]] spell prepared, and starting at character level 5, you always have the [[Enlarge/Reduce\|Enlarge/Reduce]] spell prepared. You can cast each spell once without a spell slot, and you regain the ability to cast each spell in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 	Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
 	***Spore Puff***. As a Bonus Action, you can take the Dash action. When you do so, you release a cloud of spores that makes your space Heavily Obscured until the end of the turn. You can see through the cloud. Once you use this trait, you can’t use it again until you finish a Short or Long Rest.
 

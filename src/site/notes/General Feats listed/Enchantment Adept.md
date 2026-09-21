@@ -17,7 +17,7 @@ You gain the following benefits.
 
 | Spell Slot Level | Spell                  |
 | ---------------- | ---------------------- |
-| 1                | [[Dissonant Whispers\|Dissonant Whispers]] |
+| 1                | [[Spells/Level 1 spells listed/Dissonant Whispers\|Dissonant Whispers]] |
 | 2                | [[Enthrall\|Enthrall]]           |
 | 3                | [[Hold Person\|Hold Person]]        |
 | 4                | [[Dominate Beast\|Dominate Beast]]     |
